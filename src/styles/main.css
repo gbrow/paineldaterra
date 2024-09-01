@@ -1,0 +1,21 @@
+/* styles/main.css */
+.container {
+    display: flex;
+    flex-direction: column; /* Para exibir o mapa e o gráfico em colunas */
+    gap: 20px; /* Espaço entre o mapa e o gráfico */
+}
+
+.map-container,
+.chart-container {
+    flex: 1; /* Permite que o mapa e o gráfico se ajustem ao espaço disponível */
+}
+
+.map-container {
+    height: 500px; /* Ajuste a altura do mapa conforme necessário */
+    width: 100%;
+}
+
+.chart-container {
+    height: 500px; /* Ajuste a altura do gráfico conforme necessário */
+    width: 100%;
+}
