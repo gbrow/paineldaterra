@@ -1,975 +1,975 @@
-﻿class;area;year;id
-'Formação Florestal';5562199,418;1985;1
-'Formação Savânica';202,8946112;1985;1
-'Mangue';22056,12731;1985;1
-'Restinga Arbórea';138106,2413;1985;1
-'Campo Alagado e Área Pantanosa';163314,3495;1985;1
-'Formação Campestre';39602,93965;1985;1
-'Apicum';342,8521906;1985;1
-'Afloramento Rochoso';9505,842417;1985;1
-'Restinga Herbácea';3747,761587;1985;1
-'Pastagem';4699054,268;1985;1
-'Soja';1601775,553;1985;1
-'Cana';22355,86462;1985;1
-'Arroz';12,25890384;1985;1
-'Algodão (beta)';0;1985;1
-'Outras Lavouras Temporárias';2560727,572;1985;1
-'Café';128014,2955;1985;1
-'Outras Lavouras Perenes';31258,33761;1985;1
-'Silvicultura';350973,6663;1985;1
-'Mosaico de Usos';4090660,296;1985;1
-'Praia  Duna e Areal';571,8647518;1985;1
-'Área Urbanizada';121063,2978;1985;1
-'Mineração';772,0732782;1985;1
-'Outras Áreas não Vegetadas';15588,19838;1985;1
-'Rio Lago e Oceano';365984,907;1985;1
-'Aquicultura';0;1985;1
-'Formação Florestal';5456784,163;1986;1
-'Formação Savânica';110,5652111;1986;1
-'Mangue';22049,09811;1986;1
-'Restinga Arbórea';136690,1146;1986;1
-'Campo Alagado e Área Pantanosa';159624,1673;1986;1
-'Formação Campestre';37267,32682;1986;1
-'Apicum';344,3068869;1986;1
-'Afloramento Rochoso';9506,223237;1986;1
-'Restinga Herbácea';3698,398448;1986;1
-'Pastagem';4916899,938;1986;1
-'Soja';2624632,814;1986;1
-'Cana';26996,90795;1986;1
-'Arroz';9,541715515;1986;1
-'Algodão (beta)';0;1986;1
-'Outras Lavouras Temporárias';1546001,337;1986;1
-'Café';142181,2579;1986;1
-'Outras Lavouras Perenes';34523,53708;1986;1
-'Silvicultura';359178,7048;1986;1
-'Mosaico de Usos';3942524,636;1986;1
-'Praia  Duna e Areal';532,4273333;1986;1
-'Área Urbanizada';131563,2462;1986;1
-'Mineração';940,7884981;1986;1
-'Outras Áreas não Vegetadas';7716,699558;1986;1
-'Rio Lago e Oceano';368066,6879;1986;1
-'Aquicultura';5348125,938;1986;1
-'Formação Florestal';153,7605091;1987;1
-'Formação Savânica';22013,39608;1987;1
-'Mangue';136169,5654;1987;1
-'Restinga Arbórea';155846,7045;1987;1
-'Campo Alagado e Área Pantanosa';36343,38899;1987;1
-'Formação Campestre';345,1159328;1987;1
-'Apicum';9477,801551;1987;1
-'Afloramento Rochoso';3667,237184;1987;1
-'Restinga Herbácea';5032504,667;1987;1
-'Pastagem';2996936,263;1987;1
-'Soja';29695,89547;1987;1
-'Cana';5,025809045;1987;1
-'Arroz';0;1987;1
-'Algodão (beta)';1353520,002;1987;1
-'Outras Lavouras Temporárias';143675,3682;1987;1
-'Café';17075,64685;1987;1
-'Outras Lavouras Perenes';384354,4352;1987;1
-'Silvicultura';3733030,279;1987;1
-'Mosaico de Usos';484,7352322;1987;1
-'Praia  Duna e Areal';135262,9926;1987;1
-'Área Urbanizada';1048,186702;1987;1
-'Mineração';5230,147703;1987;1
-'Outras Áreas não Vegetadas';382905,6772;1987;1
-'Rio Lago e Oceano';0;1987;1
-'Aquicultura';5236982,576;1987;1
-'Formação Florestal';154,7238112;1988;1
-'Formação Savânica';22219,69621;1988;1
-'Mangue';136087,9199;1988;1
-'Restinga Arbórea';153593,4534;1988;1
-'Campo Alagado e Área Pantanosa';37008,40732;1988;1
-'Formação Campestre';378,6674222;1988;1
-'Apicum';9447,142572;1988;1
-'Afloramento Rochoso';3597,033991;1988;1
-'Restinga Herbácea';5049554,184;1988;1
-'Pastagem';3198719,402;1988;1
-'Soja';31807,3687;1988;1
-'Cana';14,99596086;1988;1
-'Arroz';0;1988;1
-'Algodão (beta)';1322584,671;1988;1
-'Outras Lavouras Temporárias';134980,3827;1988;1
-'Café';10802,56963;1988;1
-'Outras Lavouras Perenes';413701,7992;1988;1
-'Silvicultura';3637281,292;1988;1
-'Mosaico de Usos';459,5903472;1988;1
-'Praia  Duna e Areal';139565,3787;1988;1
-'Área Urbanizada';1160,727456;1988;1
-'Mineração';4281,479948;1988;1
-'Outras Áreas não Vegetadas';383487,0224;1988;1
-'Rio Lago e Oceano';0;1988;1
-'Aquicultura';5143620,957;1988;1
-'Formação Florestal';190,0886072;1989;1
-'Formação Savânica';22052,54763;1989;1
-'Mangue';135658,9196;1989;1
-'Restinga Arbórea';153331,7417;1989;1
-'Campo Alagado e Área Pantanosa';35094,59581;1989;1
-'Formação Campestre';440,7134834;1989;1
-'Apicum';9409,314596;1989;1
-'Afloramento Rochoso';3505,928839;1989;1
-'Restinga Herbácea';5005137,351;1989;1
-'Pastagem';3028757,847;1989;1
-'Soja';32524,85721;1989;1
-'Cana';30,47301559;1989;1
-'Arroz';0;1989;1
-'Algodão (beta)';1690127,817;1989;1
-'Outras Lavouras Temporárias';128465,8251;1989;1
-'Café';10041,60412;1989;1
-'Outras Lavouras Perenes';434132,1454;1989;1
-'Silvicultura';3561755,645;1989;1
-'Mosaico de Usos';471,6005136;1989;1
-'Praia  Duna e Areal';145285,0103;1989;1
-'Área Urbanizada';1292,264459;1989;1
-'Mineração';3703,068911;1989;1
-'Outras Áreas não Vegetadas';382827,8076;1989;1
-'Rio Lago e Oceano';0;1989;1
-'Aquicultura';5105013,366;1989;1
-'Formação Florestal';214,5903663;1990;1
-'Formação Savânica';21875,01903;1990;1
-'Mangue';135295,2035;1990;1
-'Restinga Arbórea';152150,9903;1990;1
-'Campo Alagado e Área Pantanosa';34264,67624;1990;1
-'Formação Campestre';460,1576092;1990;1
-'Apicum';9399,811529;1990;1
-'Afloramento Rochoso';3491,135973;1990;1
-'Restinga Herbácea';4933023,805;1990;1
-'Pastagem';3049705,344;1990;1
-'Soja';30896,73842;1990;1
-'Cana';49,49099591;1990;1
-'Arroz';0;1990;1
-'Algodão (beta)';1944525,797;1990;1
-'Outras Lavouras Temporárias';114126,6361;1990;1
-'Café';5994,212267;1990;1
-'Outras Lavouras Perenes';458136,693;1990;1
-'Silvicultura';3387111,835;1990;1
-'Mosaico de Usos';504,8245959;1990;1
-'Praia  Duna e Areal';149857,0791;1990;1
-'Área Urbanizada';1374,864265;1990;1
-'Mineração';3509,012243;1990;1
-'Outras Áreas não Vegetadas';386877,5572;1990;1
-'Rio Lago e Oceano';0;1990;1
-'Aquicultura';5081550,934;1990;1
-'Formação Florestal';160,1047211;1991;1
-'Formação Savânica';21539,80658;1991;1
-'Mangue';134755,6161;1991;1
-'Restinga Arbórea';150738,1898;1991;1
-'Campo Alagado e Área Pantanosa';32276,18247;1991;1
-'Formação Campestre';477,4742916;1991;1
-'Apicum';9397,95754;1991;1
-'Afloramento Rochoso';3506,444561;1991;1
-'Restinga Herbácea';4824897,101;1991;1
-'Pastagem';2847109,407;1991;1
-'Soja';32003,89285;1991;1
-'Cana';37,48229896;1991;1
-'Arroz';0;1991;1
-'Algodão (beta)';2490007,741;1991;1
-'Outras Lavouras Temporárias';94473,8323;1991;1
-'Café';2936,628104;1991;1
-'Outras Lavouras Perenes';482154,6626;1991;1
-'Silvicultura';3173096,088;1991;1
-'Mosaico de Usos';474,8483876;1991;1
-'Praia  Duna e Areal';154826,9303;1991;1
-'Área Urbanizada';1451,350622;1991;1
-'Mineração';3604,70694;1991;1
-'Outras Áreas não Vegetadas';386373,3484;1991;1
-'Rio Lago e Oceano';0;1991;1
-'Aquicultura';5056104,217;1991;1
-'Formação Florestal';112,5618781;1992;1
-'Formação Savânica';21208,57981;1992;1
-'Mangue';134430,5344;1992;1
-'Restinga Arbórea';151171,5482;1992;1
-'Campo Alagado e Área Pantanosa';32113,28977;1992;1
-'Formação Campestre';492,4516501;1992;1
-'Apicum';9391,516202;1992;1
-'Afloramento Rochoso';3499,551952;1992;1
-'Restinga Herbácea';4817415,403;1992;1
-'Pastagem';2870099,842;1992;1
-'Soja';35952,1614;1992;1
-'Cana';73,91107681;1992;1
-'Arroz';0;1992;1
-'Algodão (beta)';2594078,419;1992;1
-'Outras Lavouras Temporárias';78023,82323;1992;1
-'Café';1940,798481;1992;1
-'Outras Lavouras Perenes';505033,5628;1992;1
-'Silvicultura';3057005,53;1992;1
-'Mosaico de Usos';448,3266584;1992;1
-'Praia  Duna e Areal';160171,6526;1992;1
-'Área Urbanizada';1557,812097;1992;1
-'Mineração';3816,057729;1992;1
-'Outras Áreas não Vegetadas';393721,3779;1992;1
-'Rio Lago e Oceano';0;1992;1
-'Aquicultura';5043895,245;1992;1
-'Formação Florestal';116,4018016;1993;1
-'Formação Savânica';20976,49772;1993;1
-'Mangue';135100,5675;1993;1
-'Restinga Arbórea';152238,6772;1993;1
-'Campo Alagado e Área Pantanosa';32629,38188;1993;1
-'Formação Campestre';457,9162125;1993;1
-'Apicum';9376,86571;1993;1
-'Afloramento Rochoso';3544,673647;1993;1
-'Restinga Herbácea';4793768,855;1993;1
-'Pastagem';2998649,745;1993;1
-'Soja';42169,58737;1993;1
-'Cana';60,52898447;1993;1
-'Arroz';0;1993;1
-'Algodão (beta)';2620511,465;1993;1
-'Outras Lavouras Temporárias';68180,0829;1993;1
-'Café';1038,806026;1993;1
-'Outras Lavouras Perenes';520546,7221;1993;1
-'Silvicultura';2916680,951;1993;1
-'Mosaico de Usos';445,9766387;1993;1
-'Praia  Duna e Areal';164292,2157;1993;1
-'Área Urbanizada';1653,43082;1993;1
-'Mineração';3852,425334;1993;1
-'Outras Áreas não Vegetadas';397719,1766;1993;1
-'Rio Lago e Oceano';0;1993;1
-'Aquicultura';5025370,331;1993;1
-'Formação Florestal';127,9160673;1994;1
-'Formação Savânica';20813,17999;1994;1
-'Mangue';135249,4783;1994;1
-'Restinga Arbórea';152313,783;1994;1
-'Campo Alagado e Área Pantanosa';33537,54438;1994;1
-'Formação Campestre';395,2873976;1994;1
-'Apicum';9368,315446;1994;1
-'Afloramento Rochoso';3590,734538;1994;1
-'Restinga Herbácea';4809596,45;1994;1
-'Pastagem';3250287,052;1994;1
-'Soja';45845,91311;1994;1
-'Cana';82,68485989;1994;1
-'Arroz';0;1994;1
-'Algodão (beta)';2442443,521;1994;1
-'Outras Lavouras Temporárias';54603,86059;1994;1
-'Café';574,8790682;1994;1
-'Outras Lavouras Perenes';545603,1718;1994;1
-'Silvicultura';2827014,592;1994;1
-'Mosaico de Usos';440,4793325;1994;1
-'Praia  Duna e Areal';168383,5138;1994;1
-'Área Urbanizada';1721,598462;1994;1
-'Mineração';3551,736955;1994;1
-'Outras Áreas não Vegetadas';396992,2677;1994;1
-'Rio Lago e Oceano';0;1994;1
-'Aquicultura';5001902,558;1994;1
-'Formação Florestal';147,5122308;1995;1
-'Formação Savânica';20741,72812;1995;1
-'Mangue';134773,0021;1995;1
-'Restinga Arbórea';149560,3598;1995;1
-'Campo Alagado e Área Pantanosa';33511,19131;1995;1
-'Formação Campestre';354,6824803;1995;1
-'Apicum';9363,021797;1995;1
-'Afloramento Rochoso';3617,524373;1995;1
-'Restinga Herbácea';4744800,653;1995;1
-'Pastagem';3396344,464;1995;1
-'Soja';56630,18503;1995;1
-'Cana';79,79221476;1995;1
-'Arroz';0;1995;1
-'Algodão (beta)';2405594,585;1995;1
-'Outras Lavouras Temporárias';51679,27515;1995;1
-'Café';504,6787206;1995;1
-'Outras Lavouras Perenes';559162,1375;1995;1
-'Silvicultura';2786353,075;1995;1
-'Mosaico de Usos';434,8077404;1995;1
-'Praia  Duna e Areal';172217,029;1995;1
-'Área Urbanizada';1793,14804;1995;1
-'Mineração';2922,189135;1995;1
-'Outras Áreas não Vegetadas';395413,947;1995;1
-'Rio Lago e Oceano';0;1995;1
-'Aquicultura';4985440,547;1995;1
-'Formação Florestal';135,5841039;1996;1
-'Formação Savânica';20659,98991;1996;1
-'Mangue';134540,5165;1996;1
-'Restinga Arbórea';148287,4722;1996;1
-'Campo Alagado e Área Pantanosa';33705,36668;1996;1
-'Formação Campestre';328,6305694;1996;1
-'Apicum';9361,902108;1996;1
-'Afloramento Rochoso';3651,195585;1996;1
-'Restinga Herbácea';4672236,871;1996;1
-'Pastagem';3150760,658;1996;1
-'Soja';65892,38173;1996;1
-'Cana';59,31585924;1996;1
-'Arroz';0;1996;1
-'Algodão (beta)';2707875,458;1996;1
-'Outras Lavouras Temporárias';49038,39001;1996;1
-'Café';708,1318995;1996;1
-'Outras Lavouras Perenes';568278,4164;1996;1
-'Silvicultura';2799252,024;1996;1
-'Mosaico de Usos';468,2476332;1996;1
-'Praia  Duna e Areal';176003,1235;1996;1
-'Área Urbanizada';1884,573479;1996;1
-'Mineração';2909,999258;1996;1
-'Outras Áreas não Vegetadas';396407,0245;1996;1
-'Rio Lago e Oceano';0;1996;1
-'Aquicultura';4959659,453;1996;1
-'Formação Florestal';150,9364214;1997;1
-'Formação Savânica';20651,65914;1997;1
-'Mangue';134030,4291;1997;1
-'Restinga Arbórea';146810,0726;1997;1
-'Campo Alagado e Área Pantanosa';32628,00802;1997;1
-'Formação Campestre';337,6603317;1997;1
-'Apicum';9356,446144;1997;1
-'Afloramento Rochoso';3656,503887;1997;1
-'Restinga Herbácea';4585331,513;1997;1
-'Pastagem';3080132,917;1997;1
-'Soja';73603,74548;1997;1
-'Cana';96,43502539;1997;1
-'Arroz';0;1997;1
-'Algodão (beta)';2798409,333;1997;1
-'Outras Lavouras Temporárias';47290,55251;1997;1
-'Café';937,0827535;1997;1
-'Outras Lavouras Perenes';575747,2046;1997;1
-'Silvicultura';2874706,468;1997;1
-'Mosaico de Usos';517,5144113;1997;1
-'Praia  Duna e Areal';181272,9581;1997;1
-'Área Urbanizada';2011,777358;1997;1
-'Mineração';2801,729249;1997;1
-'Outras Áreas não Vegetadas';397739,7005;1997;1
-'Rio Lago e Oceano';0;1997;1
-'Aquicultura';4944347,594;1997;1
-'Formação Florestal';160,5644021;1998;1
-'Formação Savânica';20350,1456;1998;1
-'Mangue';133969,0516;1998;1
-'Restinga Arbórea';145482,7638;1998;1
-'Campo Alagado e Área Pantanosa';33499,09478;1998;1
-'Formação Campestre';347,9128377;1998;1
-'Apicum';9367,229638;1998;1
-'Afloramento Rochoso';3672,554459;1998;1
-'Restinga Herbácea';4518427,855;1998;1
-'Pastagem';2890409,222;1998;1
-'Soja';81723,40871;1998;1
-'Cana';210,3196614;1998;1
-'Arroz';0;1998;1
-'Algodão (beta)';2982304,757;1998;1
-'Outras Lavouras Temporárias';46697,26166;1998;1
-'Café';1337,214162;1998;1
-'Outras Lavouras Perenes';581890,9912;1998;1
-'Silvicultura';2934815,531;1998;1
-'Mosaico de Usos';471,2887191;1998;1
-'Praia  Duna e Areal';186867,4763;1998;1
-'Área Urbanizada';2182,508216;1998;1
-'Mineração';2836,232648;1998;1
-'Outras Áreas não Vegetadas';406495,8584;1998;1
-'Rio Lago e Oceano';0;1998;1
-'Aquicultura';4932676,749;1998;1
-'Formação Florestal';236,0279054;1999;1
-'Formação Savânica';19702,18606;1999;1
-'Mangue';134044,3436;1999;1
-'Restinga Arbórea';144878,9076;1999;1
-'Campo Alagado e Área Pantanosa';33547,77057;1999;1
-'Formação Campestre';358,3489838;1999;1
-'Apicum';9370,837159;1999;1
-'Afloramento Rochoso';3659,784044;1999;1
-'Restinga Herbácea';4493801,45;1999;1
-'Pastagem';3310295,256;1999;1
-'Soja';98545,16117;1999;1
-'Cana';228,332561;1999;1
-'Arroz';0;1999;1
-'Algodão (beta)';2574055,925;1999;1
-'Outras Lavouras Temporárias';47392,60179;1999;1
-'Café';1453,728995;1999;1
-'Outras Lavouras Perenes';590369,3847;1999;1
-'Silvicultura';2922122,699;1999;1
-'Mosaico de Usos';454,7104067;1999;1
-'Praia  Duna e Areal';195429,4391;1999;1
-'Área Urbanizada';2309,746197;1999;1
-'Mineração';3351,890832;1999;1
-'Outras Áreas não Vegetadas';409625,4481;1999;1
-'Rio Lago e Oceano';0;1999;1
-'Aquicultura';4913539,486;1999;1
-'Formação Florestal';341,6502466;2000;1
-'Formação Savânica';20010,73797;2000;1
-'Mangue';135187,2395;2000;1
-'Restinga Arbórea';146359,0024;2000;1
-'Campo Alagado e Área Pantanosa';35152,77537;2000;1
-'Formação Campestre';356,0912758;2000;1
-'Apicum';9361,13444;2000;1
-'Afloramento Rochoso';3666,807996;2000;1
-'Restinga Herbácea';4536795,208;2000;1
-'Pastagem';3607825,366;2000;1
-'Soja';118359,8929;2000;1
-'Cana';329,4820383;2000;1
-'Arroz';0;2000;1
-'Algodão (beta)';2283976,074;2000;1
-'Outras Lavouras Temporárias';51430,74791;2000;1
-'Café';1669,969716;2000;1
-'Outras Lavouras Perenes';603255,1533;2000;1
-'Silvicultura';2862906,096;2000;1
-'Mosaico de Usos';458,8253265;2000;1
-'Praia  Duna e Areal';200494,5405;2000;1
-'Área Urbanizada';2390,60841;2000;1
-'Mineração';4631,993854;2000;1
-'Outras Áreas não Vegetadas';389442,0567;2000;1
-'Rio Lago e Oceano';0;2000;1
-'Aquicultura';4904766,756;2000;1
-'Formação Florestal';620,3660769;2001;1
-'Formação Savânica';19953,92545;2001;1
-'Mangue';134962,7777;2001;1
-'Restinga Arbórea';146246,9367;2001;1
-'Campo Alagado e Área Pantanosa';34771,15605;2001;1
-'Formação Campestre';324,7788049;2001;1
-'Apicum';9368,874675;2001;1
-'Afloramento Rochoso';3713,803528;2001;1
-'Restinga Herbácea';4503372,093;2001;1
-'Pastagem';3410456,373;2001;1
-'Soja';131880,4225;2001;1
-'Cana';319,1645671;2001;1
-'Arroz';0;2001;1
-'Algodão (beta)';2572143,302;2001;1
-'Outras Lavouras Temporárias';49616,33157;2001;1
-'Café';1869,289045;2001;1
-'Outras Lavouras Perenes';613048,2735;2001;1
-'Silvicultura';2788758,861;2001;1
-'Mosaico de Usos';470,8605399;2001;1
-'Praia  Duna e Areal';204053,4131;2001;1
-'Área Urbanizada';2494,881633;2001;1
-'Mineração';5398,722392;2001;1
-'Outras Áreas não Vegetadas';389309,5767;2001;1
-'Rio Lago e Oceano';0;2001;1
-'Aquicultura';4912672,935;2001;1
-'Formação Florestal';728,0796621;2002;1
-'Formação Savânica';20116,20554;2002;1
-'Mangue';135369,7409;2002;1
-'Restinga Arbórea';150635,9655;2002;1
-'Campo Alagado e Área Pantanosa';35280,32126;2002;1
-'Formação Campestre';316,1277433;2002;1
-'Apicum';9369,91526;2002;1
-'Afloramento Rochoso';3747,153129;2002;1
-'Restinga Herbácea';4495793,523;2002;1
-'Pastagem';3503504,777;2002;1
-'Soja';153554,3738;2002;1
-'Cana';240,9875909;2002;1
-'Arroz';0;2002;1
-'Algodão (beta)';2395150,428;2002;1
-'Outras Lavouras Temporárias';49326,33057;2002;1
-'Café';1848,182671;2002;1
-'Outras Lavouras Perenes';621355,8976;2002;1
-'Silvicultura';2834960,791;2002;1
-'Mosaico de Usos';477,5611867;2002;1
-'Praia  Duna e Areal';208560,201;2002;1
-'Área Urbanizada';2585,545491;2002;1
-'Mineração';5721,559221;2002;1
-'Outras Áreas não Vegetadas';386608,0243;2002;1
-'Rio Lago e Oceano';0;2002;1
-'Aquicultura';4898979,757;2002;1
-'Formação Florestal';539,9409175;2003;1
-'Formação Savânica';19905,27023;2003;1
-'Mangue';133560,487;2003;1
-'Restinga Arbórea';154374,9245;2003;1
-'Campo Alagado e Área Pantanosa';35650,58239;2003;1
-'Formação Campestre';373,9034476;2003;1
-'Apicum';9364,254356;2003;1
-'Afloramento Rochoso';3703,711732;2003;1
-'Restinga Herbácea';4449725,441;2003;1
-'Pastagem';3612870,377;2003;1
-'Soja';171629,0275;2003;1
-'Cana';2334,232724;2003;1
-'Arroz';0;2003;1
-'Algodão (beta)';2026540,021;2003;1
-'Outras Lavouras Temporárias';52766,74935;2003;1
-'Café';2326,423923;2003;1
-'Outras Lavouras Perenes';625199,241;2003;1
-'Silvicultura';3119644,002;2003;1
-'Mosaico de Usos';456,3260369;2003;1
-'Praia  Duna e Areal';213193,357;2003;1
-'Área Urbanizada';2691,217125;2003;1
-'Mineração';5520,570159;2003;1
-'Outras Áreas não Vegetadas';386555,9483;2003;1
-'Rio Lago e Oceano';0;2003;1
-'Aquicultura';4916682,216;2003;1
-'Formação Florestal';517,676218;2004;1
-'Formação Savânica';20134,09147;2004;1
-'Mangue';133128,7744;2004;1
-'Restinga Arbórea';155613,548;2004;1
-'Campo Alagado e Área Pantanosa';35412,3598;2004;1
-'Formação Campestre';460,3774782;2004;1
-'Apicum';9366,230787;2004;1
-'Afloramento Rochoso';3641,004224;2004;1
-'Restinga Herbácea';4319857,718;2004;1
-'Pastagem';3742120,936;2004;1
-'Soja';205223,3267;2004;1
-'Cana';2391,314785;2004;1
-'Arroz';0;2004;1
-'Algodão (beta)';1820094,666;2004;1
-'Outras Lavouras Temporárias';57505,61566;2004;1
-'Café';2826,601394;2004;1
-'Outras Lavouras Perenes';638113,8979;2004;1
-'Silvicultura';3253292,624;2004;1
-'Mosaico de Usos';421,1017915;2004;1
-'Praia  Duna e Areal';216821,5132;2004;1
-'Área Urbanizada';2787,687696;2004;1
-'Mineração';6810,303458;2004;1
-'Outras Áreas não Vegetadas';384712,8805;2004;1
-'Rio Lago e Oceano';0;2004;1
-'Aquicultura';4932925,629;2004;1
-'Formação Florestal';505,5206277;2005;1
-'Formação Savânica';20004,98819;2005;1
-'Mangue';135361,8582;2005;1
-'Restinga Arbórea';155420,6083;2005;1
-'Campo Alagado e Área Pantanosa';35300,54702;2005;1
-'Formação Campestre';479,148345;2005;1
-'Apicum';9364,673669;2005;1
-'Afloramento Rochoso';3609,122801;2005;1
-'Restinga Herbácea';4172124,737;2005;1
-'Pastagem';4216436,133;2005;1
-'Soja';254032,3262;2005;1
-'Cana';368,3306823;2005;1
-'Arroz';0;2005;1
-'Algodão (beta)';1385744,198;2005;1
-'Outras Lavouras Temporárias';57674,79915;2005;1
-'Café';3053,037977;2005;1
-'Outras Lavouras Perenes';653297,4766;2005;1
-'Silvicultura';3274642,994;2005;1
-'Mosaico de Usos';385,9544837;2005;1
-'Praia  Duna e Areal';220691,6481;2005;1
-'Área Urbanizada';2857,748813;2005;1
-'Mineração';7144,799611;2005;1
-'Outras Áreas não Vegetadas';386482,0535;2005;1
-'Rio Lago e Oceano';0;2005;1
-'Aquicultura';4949340,616;2005;1
-'Formação Florestal';449,7459507;2006;1
-'Formação Savânica';19757,08788;2006;1
-'Mangue';135913,3652;2006;1
-'Restinga Arbórea';155413,7728;2006;1
-'Campo Alagado e Área Pantanosa';35188,97994;2006;1
-'Formação Campestre';466,3438213;2006;1
-'Apicum';9368,551829;2006;1
-'Afloramento Rochoso';3635,545567;2006;1
-'Restinga Herbácea';4039155,949;2006;1
-'Pastagem';4185008,153;2006;1
-'Soja';288438,735;2006;1
-'Cana';364,6720029;2006;1
-'Arroz';0;2006;1
-'Algodão (beta)';1595520,8;2006;1
-'Outras Lavouras Temporárias';57125,55442;2006;1
-'Café';3652,492546;2006;1
-'Outras Lavouras Perenes';669715,1563;2006;1
-'Silvicultura';3160449,049;2006;1
-'Mosaico de Usos';386,8305519;2006;1
-'Praia  Duna e Areal';224395,3055;2006;1
-'Área Urbanizada';2927,189993;2006;1
-'Mineração';7101,949595;2006;1
-'Outras Áreas não Vegetadas';384154,3006;2006;1
-'Rio Lago e Oceano';0;2006;1
-'Aquicultura';4963113,414;2006;1
-'Formação Florestal';443,460637;2007;1
-'Formação Savânica';19430,69784;2007;1
-'Mangue';135838,9171;2007;1
-'Restinga Arbórea';154244,2424;2007;1
-'Campo Alagado e Área Pantanosa';34841,94798;2007;1
-'Formação Campestre';440,759705;2007;1
-'Apicum';9368,817899;2007;1
-'Afloramento Rochoso';3692,253716;2007;1
-'Restinga Herbácea';3913734,733;2007;1
-'Pastagem';4327787,524;2007;1
-'Soja';368349,5117;2007;1
-'Cana';407,3525023;2007;1
-'Arroz';0;2007;1
-'Algodão (beta)';1544406,527;2007;1
-'Outras Lavouras Temporárias';53289,48622;2007;1
-'Café';4210,551126;2007;1
-'Outras Lavouras Perenes';697082,7076;2007;1
-'Silvicultura';3073464,44;2007;1
-'Mosaico de Usos';390,3721235;2007;1
-'Praia  Duna e Areal';227738,9998;2007;1
-'Área Urbanizada';2989,933753;2007;1
-'Mineração';7454,970838;2007;1
-'Outras Áreas não Vegetadas';385178,1917;2007;1
-'Rio Lago e Oceano';0;2007;1
-'Aquicultura';4972527,585;2007;1
-'Formação Florestal';444,6722015;2008;1
-'Formação Savânica';19339,42077;2008;1
-'Mangue';135889,8275;2008;1
-'Restinga Arbórea';155121,9349;2008;1
-'Campo Alagado e Área Pantanosa';35076,85548;2008;1
-'Formação Campestre';393,6857292;2008;1
-'Apicum';9358,251886;2008;1
-'Afloramento Rochoso';3707,390719;2008;1
-'Restinga Herbácea';3779992,28;2008;1
-'Pastagem';4162757,897;2008;1
-'Soja';452308,8386;2008;1
-'Cana';451,3733104;2008;1
-'Arroz';0;2008;1
-'Algodão (beta)';1738503,872;2008;1
-'Outras Lavouras Temporárias';49349,48894;2008;1
-'Café';4454,139308;2008;1
-'Outras Lavouras Perenes';728305,6186;2008;1
-'Silvicultura';3052323,733;2008;1
-'Mosaico de Usos';380,494697;2008;1
-'Praia  Duna e Areal';231900,4801;2008;1
-'Área Urbanizada';3094,608869;2008;1
-'Mineração';7434,097532;2008;1
-'Outras Áreas não Vegetadas';384762,7964;2008;1
-'Rio Lago e Oceano';0;2008;1
-'Aquicultura';4983452,079;2008;1
-'Formação Florestal';424,9208169;2009;1
-'Formação Savânica';19400,65194;2009;1
-'Mangue';135802,4525;2009;1
-'Restinga Arbórea';155472,1867;2009;1
-'Campo Alagado e Área Pantanosa';35866,14847;2009;1
-'Formação Campestre';373,8726218;2009;1
-'Apicum';9358,023005;2009;1
-'Afloramento Rochoso';3694,258853;2009;1
-'Restinga Herbácea';3659986,242;2009;1
-'Pastagem';4248518,038;2009;1
-'Soja';518693,6753;2009;1
-'Cana';444,072246;2009;1
-'Arroz';0;2009;1
-'Algodão (beta)';1671643,693;2009;1
-'Outras Lavouras Temporárias';45345,45719;2009;1
-'Café';3389,756884;2009;1
-'Outras Lavouras Perenes';778343,6892;2009;1
-'Silvicultura';3025985,288;2009;1
-'Mosaico de Usos';385,4294257;2009;1
-'Praia  Duna e Areal';235204,2469;2009;1
-'Área Urbanizada';3202,924987;2009;1
-'Mineração';7314,931082;2009;1
-'Outras Áreas não Vegetadas';385614,4856;2009;1
-'Rio Lago e Oceano';0;2009;1
-'Aquicultura';5000585,98;2009;1
-'Formação Florestal';477,0901822;2010;1
-'Formação Savânica';19608,6245;2010;1
-'Mangue';135474,6705;2010;1
-'Restinga Arbórea';155790,8355;2010;1
-'Campo Alagado e Área Pantanosa';36383,47321;2010;1
-'Formação Campestre';365,5380768;2010;1
-'Apicum';9348,233866;2010;1
-'Afloramento Rochoso';3710,537988;2010;1
-'Restinga Herbácea';3580204,313;2010;1
-'Pastagem';4459937,551;2010;1
-'Soja';527605,2641;2010;1
-'Cana';412,3201978;2010;1
-'Arroz';0;2010;1
-'Algodão (beta)';1479513,012;2010;1
-'Outras Lavouras Temporárias';42895,5346;2010;1
-'Café';2660,991903;2010;1
-'Outras Lavouras Perenes';825812,6494;2010;1
-'Silvicultura';3005895,848;2010;1
-'Mosaico de Usos';431,1191103;2010;1
-'Praia  Duna e Areal';240872,9204;2010;1
-'Área Urbanizada';3315,609451;2010;1
-'Mineração';7008,728707;2010;1
-'Outras Áreas não Vegetadas';389608,4653;2010;1
-'Rio Lago e Oceano';0;2010;1
-'Aquicultura';5003402,726;2010;1
-'Formação Florestal';602,6667015;2011;1
-'Formação Savânica';19529,20912;2011;1
-'Mangue';135977,5569;2011;1
-'Restinga Arbórea';155475,7205;2011;1
-'Campo Alagado e Área Pantanosa';36794,87191;2011;1
-'Formação Campestre';363,4378203;2011;1
-'Apicum';9347,363187;2011;1
-'Afloramento Rochoso';3766,625671;2011;1
-'Restinga Herbácea';3505580,895;2011;1
-'Pastagem';4423165,865;2011;1
-'Soja';539127,223;2011;1
-'Cana';402,0569361;2011;1
-'Arroz';0;2011;1
-'Algodão (beta)';1497107,4;2011;1
-'Outras Lavouras Temporárias';43946,56217;2011;1
-'Café';2455,979127;2011;1
-'Outras Lavouras Perenes';876637,8537;2011;1
-'Silvicultura';3028384,449;2011;1
-'Mosaico de Usos';470,5161452;2011;1
-'Praia  Duna e Areal';245878,6399;2011;1
-'Área Urbanizada';3415,96478;2011;1
-'Mineração';7305,601866;2011;1
-'Outras Áreas não Vegetadas';388763,3025;2011;1
-'Rio Lago e Oceano';0;2011;1
-'Aquicultura';5021767,577;2011;1
-'Formação Florestal';704,3771034;2012;1
-'Formação Savânica';19229,00908;2012;1
-'Mangue';136423,237;2012;1
-'Restinga Arbórea';155121,5679;2012;1
-'Campo Alagado e Área Pantanosa';37049,20772;2012;1
-'Formação Campestre';325,4214898;2012;1
-'Apicum';9341,480375;2012;1
-'Afloramento Rochoso';3834,037729;2012;1
-'Restinga Herbácea';3427523,955;2012;1
-'Pastagem';4650947,567;2012;1
-'Soja';559909,0376;2012;1
-'Cana';384,711194;2012;1
-'Arroz';0;2012;1
-'Algodão (beta)';1176849,917;2012;1
-'Outras Lavouras Temporárias';45191,30437;2012;1
-'Café';2538,37359;2012;1
-'Outras Lavouras Perenes';929998,7157;2012;1
-'Silvicultura';3099743,504;2012;1
-'Mosaico de Usos';486,6886371;2012;1
-'Praia  Duna e Areal';250711,7652;2012;1
-'Área Urbanizada';3522,186385;2012;1
-'Mineração';9187,328368;2012;1
-'Outras Áreas não Vegetadas';387147,3932;2012;1
-'Rio Lago e Oceano';0;2012;1
-'Aquicultura';5041542,014;2012;1
-'Formação Florestal';697,6636356;2013;1
-'Formação Savânica';19167,65354;2013;1
-'Mangue';137394,593;2013;1
-'Restinga Arbórea';153937,3826;2013;1
-'Campo Alagado e Área Pantanosa';36902,10589;2013;1
-'Formação Campestre';237,1920558;2013;1
-'Apicum';9344,196773;2013;1
-'Afloramento Rochoso';3906,337543;2013;1
-'Restinga Herbácea';3317591,566;2013;1
-'Pastagem';4636203,222;2013;1
-'Soja';558925,824;2013;1
-'Cana';347,1696453;2013;1
-'Arroz';0;2013;1
-'Algodão (beta)';1221683,497;2013;1
-'Outras Lavouras Temporárias';45305,78744;2013;1
-'Café';2811,592433;2013;1
-'Outras Lavouras Perenes';970238,6135;2013;1
-'Silvicultura';3110594,489;2013;1
-'Mosaico de Usos';504,5547135;2013;1
-'Praia  Duna e Areal';256702,4916;2013;1
-'Área Urbanizada';3663,625509;2013;1
-'Mineração';10468,36205;2013;1
-'Outras Áreas não Vegetadas';389774,59;2013;1
-'Rio Lago e Oceano';0;2013;1
-'Aquicultura';5060557;2013;1
-'Formação Florestal';609,4703869;2014;1
-'Formação Savânica';19730,62387;2014;1
-'Mangue';136852,8545;2014;1
-'Restinga Arbórea';153321,183;2014;1
-'Campo Alagado e Área Pantanosa';36689,84701;2014;1
-'Formação Campestre';158,928385;2014;1
-'Apicum';9348,732336;2014;1
-'Afloramento Rochoso';3928,641944;2014;1
-'Restinga Herbácea';3269622,632;2014;1
-'Pastagem';4491875,173;2014;1
-'Soja';596176,4241;2014;1
-'Cana';428,0377929;2014;1
-'Arroz';0;2014;1
-'Algodão (beta)';1380588,098;2014;1
-'Outras Lavouras Temporárias';43945,53477;2014;1
-'Café';2429,781333;2014;1
-'Outras Lavouras Perenes';1009595,597;2014;1
-'Silvicultura';3045801,671;2014;1
-'Mosaico de Usos';507,1340772;2014;1
-'Praia  Duna e Areal';261513,4985;2014;1
-'Área Urbanizada';3779,224169;2014;1
-'Mineração';12469,82656;2014;1
-'Outras Áreas não Vegetadas';388008,9593;2014;1
-'Rio Lago e Oceano';0;2014;1
-'Aquicultura';5079565,974;2014;1
-'Formação Florestal';534,2718892;2015;1
-'Formação Savânica';20040,61279;2015;1
-'Mangue';136513,8754;2015;1
-'Restinga Arbórea';152521,3498;2015;1
-'Campo Alagado e Área Pantanosa';35753,25907;2015;1
-'Formação Campestre';121,4492665;2015;1
-'Apicum';9337,714501;2015;1
-'Afloramento Rochoso';3911,553041;2015;1
-'Restinga Herbácea';3234225,379;2015;1
-'Pastagem';4674041,265;2015;1
-'Soja';599848,2402;2015;1
-'Cana';304,7659091;2015;1
-'Arroz';0;2015;1
-'Algodão (beta)';1216769,509;2015;1
-'Outras Lavouras Temporárias';39462,50786;2015;1
-'Café';2429,319301;2015;1
-'Outras Lavouras Perenes';1037149,939;2015;1
-'Silvicultura';3011390,953;2015;1
-'Mosaico de Usos';477,4788412;2015;1
-'Praia  Duna e Areal';266299,2946;2015;1
-'Área Urbanizada';3895,201964;2015;1
-'Mineração';14446,25243;2015;1
-'Outras Áreas não Vegetadas';388909,8984;2015;1
-'Rio Lago e Oceano';0;2015;1
-'Aquicultura';5096203,222;2015;1
-'Formação Florestal';676,6134186;2016;1
-'Formação Savânica';19881,13612;2016;1
-'Mangue';136695,6362;2016;1
-'Restinga Arbórea';151271,8736;2016;1
-'Campo Alagado e Área Pantanosa';35133,92427;2016;1
-'Formação Campestre';110,3597431;2016;1
-'Apicum';9324,476372;2016;1
-'Afloramento Rochoso';3861,400768;2016;1
-'Restinga Herbácea';3191263,201;2016;1
-'Pastagem';5052911,734;2016;1
-'Soja';585250,9227;2016;1
-'Cana';111,9214407;2016;1
-'Arroz';0;2016;1
-'Algodão (beta)';883787,005;2016;1
-'Outras Lavouras Temporárias';36968,26462;2016;1
-'Café';2424,799805;2016;1
-'Outras Lavouras Perenes';1054922,171;2016;1
-'Silvicultura';2983205,364;2016;1
-'Mosaico de Usos';456,0690589;2016;1
-'Praia  Duna e Areal';271488,7709;2016;1
-'Área Urbanizada';3976,02886;2016;1
-'Mineração';14872,76387;2016;1
-'Outras Áreas não Vegetadas';393164,2897;2016;1
-'Rio Lago e Oceano';0;2016;1
-'Aquicultura';5111669,465;2016;1
-'Formação Florestal';685,6721579;2017;1
-'Formação Savânica';19498,56039;2017;1
-'Mangue';136694,027;2017;1
-'Restinga Arbórea';150805,4406;2017;1
-'Campo Alagado e Área Pantanosa';34807,53939;2017;1
-'Formação Campestre';112,7864339;2017;1
-'Apicum';9324,367245;2017;1
-'Afloramento Rochoso';3853,86982;2017;1
-'Restinga Herbácea';3133013,112;2017;1
-'Pastagem';5252614,469;2017;1
-'Soja';564225,5573;2017;1
-'Cana';180,2495618;2017;1
-'Arroz';0;2017;1
-'Algodão (beta)';733670,7515;2017;1
-'Outras Lavouras Temporárias';34834,17263;2017;1
-'Café';2619,962668;2017;1
-'Outras Lavouras Perenes';1061802,675;2017;1
-'Silvicultura';2993203,455;2017;1
-'Mosaico de Usos';471,654873;2017;1
-'Praia  Duna e Areal';275891,2031;2017;1
-'Área Urbanizada';4050,212444;2017;1
-'Mineração';15021,46691;2017;1
-'Outras Áreas não Vegetadas';388902,0569;2017;1
-'Rio Lago e Oceano';0,891151318;2017;1
-'Aquicultura';5116416,35;2017;1
-'Formação Florestal';625,8179452;2018;1
-'Formação Savânica';19129,47918;2018;1
-'Mangue';136384,0156;2018;1
-'Restinga Arbórea';150564,0689;2018;1
-'Campo Alagado e Área Pantanosa';34304,51347;2018;1
-'Formação Campestre';120,0712412;2018;1
-'Apicum';9319,803509;2018;1
-'Afloramento Rochoso';3858,976398;2018;1
-'Restinga Herbácea';3077727,335;2018;1
-'Pastagem';5334040,569;2018;1
-'Soja';558212,2687;2018;1
-'Cana';414,5818056;2018;1
-'Arroz';0;2018;1
-'Algodão (beta)';610072,8888;2018;1
-'Outras Lavouras Temporárias';33774,91675;2018;1
-'Café';2753,743363;2018;1
-'Outras Lavouras Perenes';1072710,7;2018;1
-'Silvicultura';3079859,219;2018;1
-'Mosaico de Usos';471,5718704;2018;1
-'Praia  Duna e Areal';280457,3668;2018;1
-'Área Urbanizada';4134,883561;2018;1
-'Mineração';15102,92797;2018;1
-'Outras Áreas não Vegetadas';387485,8319;2018;1
-'Rio Lago e Oceano';2,187384503;2018;1
-'Aquicultura';5102685,123;2018;1
-'Formação Florestal';526,2214167;2019;1
-'Formação Savânica';19369,50633;2019;1
-'Mangue';136524,6189;2019;1
-'Restinga Arbórea';149263,3985;2019;1
-'Campo Alagado e Área Pantanosa';33594,64001;2019;1
-'Formação Campestre';125,2438236;2019;1
-'Apicum';9286,765322;2019;1
-'Afloramento Rochoso';3843,851462;2019;1
-'Restinga Herbácea';3014162,425;2019;1
-'Pastagem';5337704,537;2019;1
-'Soja';515190,6466;2019;1
-'Cana';609,0383936;2019;1
-'Arroz';0;2019;1
-'Algodão (beta)';656798,7346;2019;1
-'Outras Lavouras Temporárias';34440,96672;2019;1
-'Café';3174,363759;2019;1
-'Outras Lavouras Perenes';1099158,519;2019;1
-'Silvicultura';3122583,523;2019;1
-'Mosaico de Usos';455,9737549;2019;1
-'Praia  Duna e Areal';284505,3036;2019;1
-'Área Urbanizada';4253,497652;2019;1
-'Mineração';14729,92481;2019;1
-'Outras Áreas não Vegetadas';384941,7375;2019;1
-'Rio Lago e Oceano';19,90254583;2019;1
-'Aquicultura';5101660,58;2019;1
-'Formação Florestal';459,5138483;2020;1
-'Formação Savânica';20013,09459;2020;1
-'Mangue';135318,4163;2020;1
-'Restinga Arbórea';148575,6895;2020;1
-'Campo Alagado e Área Pantanosa';33235,54161;2020;1
-'Formação Campestre';141,0097619;2020;1
-'Apicum';9272,790126;2020;1
-'Afloramento Rochoso';3819,487262;2020;1
-'Restinga Herbácea';2938567,997;2020;1
-'Pastagem';5472593,261;2020;1
-'Soja';537733,2419;2020;1
-'Cana';669,0092717;2020;1
-'Arroz';0;2020;1
-'Algodão (beta)';527763,5514;2020;1
-'Outras Lavouras Temporárias';34614,62528;2020;1
-'Café';3716,450309;2020;1
-'Outras Lavouras Perenes';1110833,502;2020;1
-'Silvicultura';3159396,888;2020;1
-'Mosaico de Usos';452,9826842;2020;1
-'Praia  Duna e Areal';287377,2417;2020;1
-'Área Urbanizada';4323,688629;2020;1
-'Mineração';15097,35633;2020;1
-'Outras Áreas não Vegetadas';382298,1694;2020;1
-'Rio Lago e Oceano';33,01248167;2020;1
-'Aquicultura';5101847,341;2020;1
-'Formação Florestal';382,6141924;2021;1
-'Formação Savânica';20096,09448;2021;1
-'Mangue';135290,502;2021;1
-'Restinga Arbórea';147494,2967;2021;1
-'Campo Alagado e Área Pantanosa';33216,81332;2021;1
-'Formação Campestre';145,2969256;2021;1
-'Apicum';9271,342214;2021;1
-'Afloramento Rochoso';3822,880818;2021;1
-'Restinga Herbácea';2898059,597;2021;1
-'Pastagem';5517645,124;2021;1
-'Soja';534310,2703;2021;1
-'Cana';401,0471853;2021;1
-'Arroz';0;2021;1
-'Algodão (beta)';496131,8219;2021;1
-'Outras Lavouras Temporárias';34679,71147;2021;1
-'Café';3704,36835;2021;1
-'Outras Lavouras Perenes';1116316,593;2021;1
-'Silvicultura';3181595,771;2021;1
-'Mosaico de Usos';451,932012;2021;1
-'Praia  Duna e Areal';290134,0664;2021;1
-'Área Urbanizada';4415,95468;2021;1
-'Mineração';15757,97095;2021;1
-'Outras Áreas não Vegetadas';382705,1009;2021;1
-'Rio Lago e Oceano';67,46095341;2021;1
-'Aquicultura';5120839,41;2021;1
-'Formação Florestal';336,1474998;2022;1
-'Formação Savânica';19920,74905;2022;1
-'Mangue';134335,1919;2022;1
-'Restinga Arbórea';146021,7518;2022;1
-'Campo Alagado e Área Pantanosa';33094,46898;2022;1
-'Formação Campestre';147,8909662;2022;1
-'Apicum';9264,332798;2022;1
-'Afloramento Rochoso';3843,285624;2022;1
-'Restinga Herbácea';2848407,897;2022;1
-'Pastagem';5582139,012;2022;1
-'Soja';556275,9714;2022;1
-'Cana';367,0159089;2022;1
-'Arroz';1,805184137;2022;1
-'Algodão (beta)';433852,4447;2022;1
-'Outras Lavouras Temporárias';34735,03431;2022;1
-'Café';3533,960117;2022;1
-'Outras Lavouras Perenes';1125019,491;2022;1
-'Silvicultura';3170825,587;2022;1
-'Mosaico de Usos';453,2250974;2022;1
-'Praia  Duna e Areal';290494,0518;2022;1
-'Área Urbanizada';4449,758274;2022;1
-'Mineração';17696,79738;2022;1
-'Outras Áreas não Vegetadas';391837,7916;2022;1
-'Rio Lago e Oceano';74,34632539;2022;1
-'Aquicultura';5125659,33;2022;1
-'Formação Florestal';345,3150184;2023;1
-'Formação Savânica';19931,79714;2023;1
-'Mangue';134134,1875;2023;1
-'Restinga Arbórea';145932,328;2023;1
-'Campo Alagado e Área Pantanosa';33222,94222;2023;1
-'Formação Campestre';148,1341406;2023;1
-'Apicum';9247,334485;2023;1
-'Afloramento Rochoso';3863,420298;2023;1
-'Restinga Herbácea';2818727,73;2023;1
-'Pastagem';5669466,499;2023;1
-'Soja';563034,3117;2023;1
-'Cana';410,9217731;2023;1
-'Arroz';1,805184137;2023;1
-'Algodão (beta)';355149,0121;2023;1
-'Outras Lavouras Temporárias';34676,02886;2023;1
-'Café';3454,737973;2023;1
-'Outras Lavouras Perenes';1125119,511;2023;1
-'Silvicultura';3166574,776;2023;1
-'Mosaico de Usos';438,0662466;2023;1
-'Praia  Duna e Areal';296626,0554;2023;1
-'Área Urbanizada';4461,970815;2023;1
-'Mineração';23989,11676;2023;1
-'Outras Áreas não Vegetadas';393266,791;2023;1
-'Rio Lago e Oceano';74,18373231;2023;1
+﻿class,area,year,id
+'Formação Florestal',5562199.418,1985,1
+'Formação Savânica',202.8946112,1985,1
+'Mangue',22056.12731,1985,1
+'Restinga Arbórea',138106.2413,1985,1
+'Campo Alagado e Área Pantanosa',163314.3495,1985,1
+'Formação Campestre',39602.93965,1985,1
+'Apicum',342.8521906,1985,1
+'Afloramento Rochoso',9505.842417,1985,1
+'Restinga Herbácea',3747.761587,1985,1
+'Pastagem',4699054.268,1985,1
+'Soja',1601775.553,1985,1
+'Cana',22355.86462,1985,1
+'Arroz',12.25890384,1985,1
+'Algodão (beta)',0,1985,1
+'Outras Lavouras Temporárias',2560727.572,1985,1
+'Café',128014.2955,1985,1
+'Outras Lavouras Perenes',31258.33761,1985,1
+'Silvicultura',350973.6663,1985,1
+'Mosaico de Usos',4090660.296,1985,1
+'Praia  Duna e Areal',571.8647518,1985,1
+'Área Urbanizada',121063.2978,1985,1
+'Mineração',772.0732782,1985,1
+'Outras Áreas não Vegetadas',15588.19838,1985,1
+'Rio Lago e Oceano',365984.907,1985,1
+'Aquicultura',0,1985,1
+'Formação Florestal',5456784.163,1986,1
+'Formação Savânica',110.5652111,1986,1
+'Mangue',22049.09811,1986,1
+'Restinga Arbórea',136690.1146,1986,1
+'Campo Alagado e Área Pantanosa',159624.1673,1986,1
+'Formação Campestre',37267.32682,1986,1
+'Apicum',344.3068869,1986,1
+'Afloramento Rochoso',9506.223237,1986,1
+'Restinga Herbácea',3698.398448,1986,1
+'Pastagem',4916899.938,1986,1
+'Soja',2624632.814,1986,1
+'Cana',26996.90795,1986,1
+'Arroz',9.541715515,1986,1
+'Algodão (beta)',0,1986,1
+'Outras Lavouras Temporárias',1546001.337,1986,1
+'Café',142181.2579,1986,1
+'Outras Lavouras Perenes',34523.53708,1986,1
+'Silvicultura',359178.7048,1986,1
+'Mosaico de Usos',3942524.636,1986,1
+'Praia  Duna e Areal',532.4273333,1986,1
+'Área Urbanizada',131563.2462,1986,1
+'Mineração',940.7884981,1986,1
+'Outras Áreas não Vegetadas',7716.699558,1986,1
+'Rio Lago e Oceano',368066.6879,1986,1
+'Aquicultura',5348125.938,1986,1
+'Formação Florestal',153.7605091,1987,1
+'Formação Savânica',22013.39608,1987,1
+'Mangue',136169.5654,1987,1
+'Restinga Arbórea',155846.7045,1987,1
+'Campo Alagado e Área Pantanosa',36343.38899,1987,1
+'Formação Campestre',345.1159328,1987,1
+'Apicum',9477.801551,1987,1
+'Afloramento Rochoso',3667.237184,1987,1
+'Restinga Herbácea',5032504.667,1987,1
+'Pastagem',2996936.263,1987,1
+'Soja',29695.89547,1987,1
+'Cana',5.025809045,1987,1
+'Arroz',0,1987,1
+'Algodão (beta)',1353520.002,1987,1
+'Outras Lavouras Temporárias',143675.3682,1987,1
+'Café',17075.64685,1987,1
+'Outras Lavouras Perenes',384354.4352,1987,1
+'Silvicultura',3733030.279,1987,1
+'Mosaico de Usos',484.7352322,1987,1
+'Praia  Duna e Areal',135262.9926,1987,1
+'Área Urbanizada',1048.186702,1987,1
+'Mineração',5230.147703,1987,1
+'Outras Áreas não Vegetadas',382905.6772,1987,1
+'Rio Lago e Oceano',0,1987,1
+'Aquicultura',5236982.576,1987,1
+'Formação Florestal',154.7238112,1988,1
+'Formação Savânica',22219.69621,1988,1
+'Mangue',136087.9199,1988,1
+'Restinga Arbórea',153593.4534,1988,1
+'Campo Alagado e Área Pantanosa',37008.40732,1988,1
+'Formação Campestre',378.6674222,1988,1
+'Apicum',9447.142572,1988,1
+'Afloramento Rochoso',3597.033991,1988,1
+'Restinga Herbácea',5049554.184,1988,1
+'Pastagem',3198719.402,1988,1
+'Soja',31807.3687,1988,1
+'Cana',14.99596086,1988,1
+'Arroz',0,1988,1
+'Algodão (beta)',1322584.671,1988,1
+'Outras Lavouras Temporárias',134980.3827,1988,1
+'Café',10802.56963,1988,1
+'Outras Lavouras Perenes',413701.7992,1988,1
+'Silvicultura',3637281.292,1988,1
+'Mosaico de Usos',459.5903472,1988,1
+'Praia  Duna e Areal',139565.3787,1988,1
+'Área Urbanizada',1160.727456,1988,1
+'Mineração',4281.479948,1988,1
+'Outras Áreas não Vegetadas',383487.0224,1988,1
+'Rio Lago e Oceano',0,1988,1
+'Aquicultura',5143620.957,1988,1
+'Formação Florestal',190.0886072,1989,1
+'Formação Savânica',22052.54763,1989,1
+'Mangue',135658.9196,1989,1
+'Restinga Arbórea',153331.7417,1989,1
+'Campo Alagado e Área Pantanosa',35094.59581,1989,1
+'Formação Campestre',440.7134834,1989,1
+'Apicum',9409.314596,1989,1
+'Afloramento Rochoso',3505.928839,1989,1
+'Restinga Herbácea',5005137.351,1989,1
+'Pastagem',3028757.847,1989,1
+'Soja',32524.85721,1989,1
+'Cana',30.47301559,1989,1
+'Arroz',0,1989,1
+'Algodão (beta)',1690127.817,1989,1
+'Outras Lavouras Temporárias',128465.8251,1989,1
+'Café',10041.60412,1989,1
+'Outras Lavouras Perenes',434132.1454,1989,1
+'Silvicultura',3561755.645,1989,1
+'Mosaico de Usos',471.6005136,1989,1
+'Praia  Duna e Areal',145285.0103,1989,1
+'Área Urbanizada',1292.264459,1989,1
+'Mineração',3703.068911,1989,1
+'Outras Áreas não Vegetadas',382827.8076,1989,1
+'Rio Lago e Oceano',0,1989,1
+'Aquicultura',5105013.366,1989,1
+'Formação Florestal',214.5903663,1990,1
+'Formação Savânica',21875.01903,1990,1
+'Mangue',135295.2035,1990,1
+'Restinga Arbórea',152150.9903,1990,1
+'Campo Alagado e Área Pantanosa',34264.67624,1990,1
+'Formação Campestre',460.1576092,1990,1
+'Apicum',9399.811529,1990,1
+'Afloramento Rochoso',3491.135973,1990,1
+'Restinga Herbácea',4933023.805,1990,1
+'Pastagem',3049705.344,1990,1
+'Soja',30896.73842,1990,1
+'Cana',49.49099591,1990,1
+'Arroz',0,1990,1
+'Algodão (beta)',1944525.797,1990,1
+'Outras Lavouras Temporárias',114126.6361,1990,1
+'Café',5994.212267,1990,1
+'Outras Lavouras Perenes',458136.693,1990,1
+'Silvicultura',3387111.835,1990,1
+'Mosaico de Usos',504.8245959,1990,1
+'Praia  Duna e Areal',149857.0791,1990,1
+'Área Urbanizada',1374.864265,1990,1
+'Mineração',3509.012243,1990,1
+'Outras Áreas não Vegetadas',386877.5572,1990,1
+'Rio Lago e Oceano',0,1990,1
+'Aquicultura',5081550.934,1990,1
+'Formação Florestal',160.1047211,1991,1
+'Formação Savânica',21539.80658,1991,1
+'Mangue',134755.6161,1991,1
+'Restinga Arbórea',150738.1898,1991,1
+'Campo Alagado e Área Pantanosa',32276.18247,1991,1
+'Formação Campestre',477.4742916,1991,1
+'Apicum',9397.95754,1991,1
+'Afloramento Rochoso',3506.444561,1991,1
+'Restinga Herbácea',4824897.101,1991,1
+'Pastagem',2847109.407,1991,1
+'Soja',32003.89285,1991,1
+'Cana',37.48229896,1991,1
+'Arroz',0,1991,1
+'Algodão (beta)',2490007.741,1991,1
+'Outras Lavouras Temporárias',94473.8323,1991,1
+'Café',2936.628104,1991,1
+'Outras Lavouras Perenes',482154.6626,1991,1
+'Silvicultura',3173096.088,1991,1
+'Mosaico de Usos',474.8483876,1991,1
+'Praia  Duna e Areal',154826.9303,1991,1
+'Área Urbanizada',1451.350622,1991,1
+'Mineração',3604.70694,1991,1
+'Outras Áreas não Vegetadas',386373.3484,1991,1
+'Rio Lago e Oceano',0,1991,1
+'Aquicultura',5056104.217,1991,1
+'Formação Florestal',112.5618781,1992,1
+'Formação Savânica',21208.57981,1992,1
+'Mangue',134430.5344,1992,1
+'Restinga Arbórea',151171.5482,1992,1
+'Campo Alagado e Área Pantanosa',32113.28977,1992,1
+'Formação Campestre',492.4516501,1992,1
+'Apicum',9391.516202,1992,1
+'Afloramento Rochoso',3499.551952,1992,1
+'Restinga Herbácea',4817415.403,1992,1
+'Pastagem',2870099.842,1992,1
+'Soja',35952.1614,1992,1
+'Cana',73.91107681,1992,1
+'Arroz',0,1992,1
+'Algodão (beta)',2594078.419,1992,1
+'Outras Lavouras Temporárias',78023.82323,1992,1
+'Café',1940.798481,1992,1
+'Outras Lavouras Perenes',505033.5628,1992,1
+'Silvicultura',3057005.53,1992,1
+'Mosaico de Usos',448.3266584,1992,1
+'Praia  Duna e Areal',160171.6526,1992,1
+'Área Urbanizada',1557.812097,1992,1
+'Mineração',3816.057729,1992,1
+'Outras Áreas não Vegetadas',393721.3779,1992,1
+'Rio Lago e Oceano',0,1992,1
+'Aquicultura',5043895.245,1992,1
+'Formação Florestal',116.4018016,1993,1
+'Formação Savânica',20976.49772,1993,1
+'Mangue',135100.5675,1993,1
+'Restinga Arbórea',152238.6772,1993,1
+'Campo Alagado e Área Pantanosa',32629.38188,1993,1
+'Formação Campestre',457.9162125,1993,1
+'Apicum',9376.86571,1993,1
+'Afloramento Rochoso',3544.673647,1993,1
+'Restinga Herbácea',4793768.855,1993,1
+'Pastagem',2998649.745,1993,1
+'Soja',42169.58737,1993,1
+'Cana',60.52898447,1993,1
+'Arroz',0,1993,1
+'Algodão (beta)',2620511.465,1993,1
+'Outras Lavouras Temporárias',68180.0829,1993,1
+'Café',1038.806026,1993,1
+'Outras Lavouras Perenes',520546.7221,1993,1
+'Silvicultura',2916680.951,1993,1
+'Mosaico de Usos',445.9766387,1993,1
+'Praia  Duna e Areal',164292.2157,1993,1
+'Área Urbanizada',1653.43082,1993,1
+'Mineração',3852.425334,1993,1
+'Outras Áreas não Vegetadas',397719.1766,1993,1
+'Rio Lago e Oceano',0,1993,1
+'Aquicultura',5025370.331,1993,1
+'Formação Florestal',127.9160673,1994,1
+'Formação Savânica',20813.17999,1994,1
+'Mangue',135249.4783,1994,1
+'Restinga Arbórea',152313.783,1994,1
+'Campo Alagado e Área Pantanosa',33537.54438,1994,1
+'Formação Campestre',395.2873976,1994,1
+'Apicum',9368.315446,1994,1
+'Afloramento Rochoso',3590.734538,1994,1
+'Restinga Herbácea',4809596.45,1994,1
+'Pastagem',3250287.052,1994,1
+'Soja',45845.91311,1994,1
+'Cana',82.68485989,1994,1
+'Arroz',0,1994,1
+'Algodão (beta)',2442443.521,1994,1
+'Outras Lavouras Temporárias',54603.86059,1994,1
+'Café',574.8790682,1994,1
+'Outras Lavouras Perenes',545603.1718,1994,1
+'Silvicultura',2827014.592,1994,1
+'Mosaico de Usos',440.4793325,1994,1
+'Praia  Duna e Areal',168383.5138,1994,1
+'Área Urbanizada',1721.598462,1994,1
+'Mineração',3551.736955,1994,1
+'Outras Áreas não Vegetadas',396992.2677,1994,1
+'Rio Lago e Oceano',0,1994,1
+'Aquicultura',5001902.558,1994,1
+'Formação Florestal',147.5122308,1995,1
+'Formação Savânica',20741.72812,1995,1
+'Mangue',134773.0021,1995,1
+'Restinga Arbórea',149560.3598,1995,1
+'Campo Alagado e Área Pantanosa',33511.19131,1995,1
+'Formação Campestre',354.6824803,1995,1
+'Apicum',9363.021797,1995,1
+'Afloramento Rochoso',3617.524373,1995,1
+'Restinga Herbácea',4744800.653,1995,1
+'Pastagem',3396344.464,1995,1
+'Soja',56630.18503,1995,1
+'Cana',79.79221476,1995,1
+'Arroz',0,1995,1
+'Algodão (beta)',2405594.585,1995,1
+'Outras Lavouras Temporárias',51679.27515,1995,1
+'Café',504.6787206,1995,1
+'Outras Lavouras Perenes',559162.1375,1995,1
+'Silvicultura',2786353.075,1995,1
+'Mosaico de Usos',434.8077404,1995,1
+'Praia  Duna e Areal',172217.029,1995,1
+'Área Urbanizada',1793.14804,1995,1
+'Mineração',2922.189135,1995,1
+'Outras Áreas não Vegetadas',395413.947,1995,1
+'Rio Lago e Oceano',0,1995,1
+'Aquicultura',4985440.547,1995,1
+'Formação Florestal',135.5841039,1996,1
+'Formação Savânica',20659.98991,1996,1
+'Mangue',134540.5165,1996,1
+'Restinga Arbórea',148287.4722,1996,1
+'Campo Alagado e Área Pantanosa',33705.36668,1996,1
+'Formação Campestre',328.6305694,1996,1
+'Apicum',9361.902108,1996,1
+'Afloramento Rochoso',3651.195585,1996,1
+'Restinga Herbácea',4672236.871,1996,1
+'Pastagem',3150760.658,1996,1
+'Soja',65892.38173,1996,1
+'Cana',59.31585924,1996,1
+'Arroz',0,1996,1
+'Algodão (beta)',2707875.458,1996,1
+'Outras Lavouras Temporárias',49038.39001,1996,1
+'Café',708.1318995,1996,1
+'Outras Lavouras Perenes',568278.4164,1996,1
+'Silvicultura',2799252.024,1996,1
+'Mosaico de Usos',468.2476332,1996,1
+'Praia  Duna e Areal',176003.1235,1996,1
+'Área Urbanizada',1884.573479,1996,1
+'Mineração',2909.999258,1996,1
+'Outras Áreas não Vegetadas',396407.0245,1996,1
+'Rio Lago e Oceano',0,1996,1
+'Aquicultura',4959659.453,1996,1
+'Formação Florestal',150.9364214,1997,1
+'Formação Savânica',20651.65914,1997,1
+'Mangue',134030.4291,1997,1
+'Restinga Arbórea',146810.0726,1997,1
+'Campo Alagado e Área Pantanosa',32628.00802,1997,1
+'Formação Campestre',337.6603317,1997,1
+'Apicum',9356.446144,1997,1
+'Afloramento Rochoso',3656.503887,1997,1
+'Restinga Herbácea',4585331.513,1997,1
+'Pastagem',3080132.917,1997,1
+'Soja',73603.74548,1997,1
+'Cana',96.43502539,1997,1
+'Arroz',0,1997,1
+'Algodão (beta)',2798409.333,1997,1
+'Outras Lavouras Temporárias',47290.55251,1997,1
+'Café',937.0827535,1997,1
+'Outras Lavouras Perenes',575747.2046,1997,1
+'Silvicultura',2874706.468,1997,1
+'Mosaico de Usos',517.5144113,1997,1
+'Praia  Duna e Areal',181272.9581,1997,1
+'Área Urbanizada',2011.777358,1997,1
+'Mineração',2801.729249,1997,1
+'Outras Áreas não Vegetadas',397739.7005,1997,1
+'Rio Lago e Oceano',0,1997,1
+'Aquicultura',4944347.594,1997,1
+'Formação Florestal',160.5644021,1998,1
+'Formação Savânica',20350.1456,1998,1
+'Mangue',133969.0516,1998,1
+'Restinga Arbórea',145482.7638,1998,1
+'Campo Alagado e Área Pantanosa',33499.09478,1998,1
+'Formação Campestre',347.9128377,1998,1
+'Apicum',9367.229638,1998,1
+'Afloramento Rochoso',3672.554459,1998,1
+'Restinga Herbácea',4518427.855,1998,1
+'Pastagem',2890409.222,1998,1
+'Soja',81723.40871,1998,1
+'Cana',210.3196614,1998,1
+'Arroz',0,1998,1
+'Algodão (beta)',2982304.757,1998,1
+'Outras Lavouras Temporárias',46697.26166,1998,1
+'Café',1337.214162,1998,1
+'Outras Lavouras Perenes',581890.9912,1998,1
+'Silvicultura',2934815.531,1998,1
+'Mosaico de Usos',471.2887191,1998,1
+'Praia  Duna e Areal',186867.4763,1998,1
+'Área Urbanizada',2182.508216,1998,1
+'Mineração',2836.232648,1998,1
+'Outras Áreas não Vegetadas',406495.8584,1998,1
+'Rio Lago e Oceano',0,1998,1
+'Aquicultura',4932676.749,1998,1
+'Formação Florestal',236.0279054,1999,1
+'Formação Savânica',19702.18606,1999,1
+'Mangue',134044.3436,1999,1
+'Restinga Arbórea',144878.9076,1999,1
+'Campo Alagado e Área Pantanosa',33547.77057,1999,1
+'Formação Campestre',358.3489838,1999,1
+'Apicum',9370.837159,1999,1
+'Afloramento Rochoso',3659.784044,1999,1
+'Restinga Herbácea',4493801.45,1999,1
+'Pastagem',3310295.256,1999,1
+'Soja',98545.16117,1999,1
+'Cana',228.332561,1999,1
+'Arroz',0,1999,1
+'Algodão (beta)',2574055.925,1999,1
+'Outras Lavouras Temporárias',47392.60179,1999,1
+'Café',1453.728995,1999,1
+'Outras Lavouras Perenes',590369.3847,1999,1
+'Silvicultura',2922122.699,1999,1
+'Mosaico de Usos',454.7104067,1999,1
+'Praia  Duna e Areal',195429.4391,1999,1
+'Área Urbanizada',2309.746197,1999,1
+'Mineração',3351.890832,1999,1
+'Outras Áreas não Vegetadas',409625.4481,1999,1
+'Rio Lago e Oceano',0,1999,1
+'Aquicultura',4913539.486,1999,1
+'Formação Florestal',341.6502466,2000,1
+'Formação Savânica',20010.73797,2000,1
+'Mangue',135187.2395,2000,1
+'Restinga Arbórea',146359.0024,2000,1
+'Campo Alagado e Área Pantanosa',35152.77537,2000,1
+'Formação Campestre',356.0912758,2000,1
+'Apicum',9361.13444,2000,1
+'Afloramento Rochoso',3666.807996,2000,1
+'Restinga Herbácea',4536795.208,2000,1
+'Pastagem',3607825.366,2000,1
+'Soja',118359.8929,2000,1
+'Cana',329.4820383,2000,1
+'Arroz',0,2000,1
+'Algodão (beta)',2283976.074,2000,1
+'Outras Lavouras Temporárias',51430.74791,2000,1
+'Café',1669.969716,2000,1
+'Outras Lavouras Perenes',603255.1533,2000,1
+'Silvicultura',2862906.096,2000,1
+'Mosaico de Usos',458.8253265,2000,1
+'Praia  Duna e Areal',200494.5405,2000,1
+'Área Urbanizada',2390.60841,2000,1
+'Mineração',4631.993854,2000,1
+'Outras Áreas não Vegetadas',389442.0567,2000,1
+'Rio Lago e Oceano',0,2000,1
+'Aquicultura',4904766.756,2000,1
+'Formação Florestal',620.3660769,2001,1
+'Formação Savânica',19953.92545,2001,1
+'Mangue',134962.7777,2001,1
+'Restinga Arbórea',146246.9367,2001,1
+'Campo Alagado e Área Pantanosa',34771.15605,2001,1
+'Formação Campestre',324.7788049,2001,1
+'Apicum',9368.874675,2001,1
+'Afloramento Rochoso',3713.803528,2001,1
+'Restinga Herbácea',4503372.093,2001,1
+'Pastagem',3410456.373,2001,1
+'Soja',131880.4225,2001,1
+'Cana',319.1645671,2001,1
+'Arroz',0,2001,1
+'Algodão (beta)',2572143.302,2001,1
+'Outras Lavouras Temporárias',49616.33157,2001,1
+'Café',1869.289045,2001,1
+'Outras Lavouras Perenes',613048.2735,2001,1
+'Silvicultura',2788758.861,2001,1
+'Mosaico de Usos',470.8605399,2001,1
+'Praia  Duna e Areal',204053.4131,2001,1
+'Área Urbanizada',2494.881633,2001,1
+'Mineração',5398.722392,2001,1
+'Outras Áreas não Vegetadas',389309.5767,2001,1
+'Rio Lago e Oceano',0,2001,1
+'Aquicultura',4912672.935,2001,1
+'Formação Florestal',728.0796621,2002,1
+'Formação Savânica',20116.20554,2002,1
+'Mangue',135369.7409,2002,1
+'Restinga Arbórea',150635.9655,2002,1
+'Campo Alagado e Área Pantanosa',35280.32126,2002,1
+'Formação Campestre',316.1277433,2002,1
+'Apicum',9369.91526,2002,1
+'Afloramento Rochoso',3747.153129,2002,1
+'Restinga Herbácea',4495793.523,2002,1
+'Pastagem',3503504.777,2002,1
+'Soja',153554.3738,2002,1
+'Cana',240.9875909,2002,1
+'Arroz',0,2002,1
+'Algodão (beta)',2395150.428,2002,1
+'Outras Lavouras Temporárias',49326.33057,2002,1
+'Café',1848.182671,2002,1
+'Outras Lavouras Perenes',621355.8976,2002,1
+'Silvicultura',2834960.791,2002,1
+'Mosaico de Usos',477.5611867,2002,1
+'Praia  Duna e Areal',208560.201,2002,1
+'Área Urbanizada',2585.545491,2002,1
+'Mineração',5721.559221,2002,1
+'Outras Áreas não Vegetadas',386608.0243,2002,1
+'Rio Lago e Oceano',0,2002,1
+'Aquicultura',4898979.757,2002,1
+'Formação Florestal',539.9409175,2003,1
+'Formação Savânica',19905.27023,2003,1
+'Mangue',133560.487,2003,1
+'Restinga Arbórea',154374.9245,2003,1
+'Campo Alagado e Área Pantanosa',35650.58239,2003,1
+'Formação Campestre',373.9034476,2003,1
+'Apicum',9364.254356,2003,1
+'Afloramento Rochoso',3703.711732,2003,1
+'Restinga Herbácea',4449725.441,2003,1
+'Pastagem',3612870.377,2003,1
+'Soja',171629.0275,2003,1
+'Cana',2334.232724,2003,1
+'Arroz',0,2003,1
+'Algodão (beta)',2026540.021,2003,1
+'Outras Lavouras Temporárias',52766.74935,2003,1
+'Café',2326.423923,2003,1
+'Outras Lavouras Perenes',625199.241,2003,1
+'Silvicultura',3119644.002,2003,1
+'Mosaico de Usos',456.3260369,2003,1
+'Praia  Duna e Areal',213193.357,2003,1
+'Área Urbanizada',2691.217125,2003,1
+'Mineração',5520.570159,2003,1
+'Outras Áreas não Vegetadas',386555.9483,2003,1
+'Rio Lago e Oceano',0,2003,1
+'Aquicultura',4916682.216,2003,1
+'Formação Florestal',517.676218,2004,1
+'Formação Savânica',20134.09147,2004,1
+'Mangue',133128.7744,2004,1
+'Restinga Arbórea',155613.548,2004,1
+'Campo Alagado e Área Pantanosa',35412.3598,2004,1
+'Formação Campestre',460.3774782,2004,1
+'Apicum',9366.230787,2004,1
+'Afloramento Rochoso',3641.004224,2004,1
+'Restinga Herbácea',4319857.718,2004,1
+'Pastagem',3742120.936,2004,1
+'Soja',205223.3267,2004,1
+'Cana',2391.314785,2004,1
+'Arroz',0,2004,1
+'Algodão (beta)',1820094.666,2004,1
+'Outras Lavouras Temporárias',57505.61566,2004,1
+'Café',2826.601394,2004,1
+'Outras Lavouras Perenes',638113.8979,2004,1
+'Silvicultura',3253292.624,2004,1
+'Mosaico de Usos',421.1017915,2004,1
+'Praia  Duna e Areal',216821.5132,2004,1
+'Área Urbanizada',2787.687696,2004,1
+'Mineração',6810.303458,2004,1
+'Outras Áreas não Vegetadas',384712.8805,2004,1
+'Rio Lago e Oceano',0,2004,1
+'Aquicultura',4932925.629,2004,1
+'Formação Florestal',505.5206277,2005,1
+'Formação Savânica',20004.98819,2005,1
+'Mangue',135361.8582,2005,1
+'Restinga Arbórea',155420.6083,2005,1
+'Campo Alagado e Área Pantanosa',35300.54702,2005,1
+'Formação Campestre',479.148345,2005,1
+'Apicum',9364.673669,2005,1
+'Afloramento Rochoso',3609.122801,2005,1
+'Restinga Herbácea',4172124.737,2005,1
+'Pastagem',4216436.133,2005,1
+'Soja',254032.3262,2005,1
+'Cana',368.3306823,2005,1
+'Arroz',0,2005,1
+'Algodão (beta)',1385744.198,2005,1
+'Outras Lavouras Temporárias',57674.79915,2005,1
+'Café',3053.037977,2005,1
+'Outras Lavouras Perenes',653297.4766,2005,1
+'Silvicultura',3274642.994,2005,1
+'Mosaico de Usos',385.9544837,2005,1
+'Praia  Duna e Areal',220691.6481,2005,1
+'Área Urbanizada',2857.748813,2005,1
+'Mineração',7144.799611,2005,1
+'Outras Áreas não Vegetadas',386482.0535,2005,1
+'Rio Lago e Oceano',0,2005,1
+'Aquicultura',4949340.616,2005,1
+'Formação Florestal',449.7459507,2006,1
+'Formação Savânica',19757.08788,2006,1
+'Mangue',135913.3652,2006,1
+'Restinga Arbórea',155413.7728,2006,1
+'Campo Alagado e Área Pantanosa',35188.97994,2006,1
+'Formação Campestre',466.3438213,2006,1
+'Apicum',9368.551829,2006,1
+'Afloramento Rochoso',3635.545567,2006,1
+'Restinga Herbácea',4039155.949,2006,1
+'Pastagem',4185008.153,2006,1
+'Soja',288438.735,2006,1
+'Cana',364.6720029,2006,1
+'Arroz',0,2006,1
+'Algodão (beta)',1595520.8,2006,1
+'Outras Lavouras Temporárias',57125.55442,2006,1
+'Café',3652.492546,2006,1
+'Outras Lavouras Perenes',669715.1563,2006,1
+'Silvicultura',3160449.049,2006,1
+'Mosaico de Usos',386.8305519,2006,1
+'Praia  Duna e Areal',224395.3055,2006,1
+'Área Urbanizada',2927.189993,2006,1
+'Mineração',7101.949595,2006,1
+'Outras Áreas não Vegetadas',384154.3006,2006,1
+'Rio Lago e Oceano',0,2006,1
+'Aquicultura',4963113.414,2006,1
+'Formação Florestal',443.460637,2007,1
+'Formação Savânica',19430.69784,2007,1
+'Mangue',135838.9171,2007,1
+'Restinga Arbórea',154244.2424,2007,1
+'Campo Alagado e Área Pantanosa',34841.94798,2007,1
+'Formação Campestre',440.759705,2007,1
+'Apicum',9368.817899,2007,1
+'Afloramento Rochoso',3692.253716,2007,1
+'Restinga Herbácea',3913734.733,2007,1
+'Pastagem',4327787.524,2007,1
+'Soja',368349.5117,2007,1
+'Cana',407.3525023,2007,1
+'Arroz',0,2007,1
+'Algodão (beta)',1544406.527,2007,1
+'Outras Lavouras Temporárias',53289.48622,2007,1
+'Café',4210.551126,2007,1
+'Outras Lavouras Perenes',697082.7076,2007,1
+'Silvicultura',3073464.44,2007,1
+'Mosaico de Usos',390.3721235,2007,1
+'Praia  Duna e Areal',227738.9998,2007,1
+'Área Urbanizada',2989.933753,2007,1
+'Mineração',7454.970838,2007,1
+'Outras Áreas não Vegetadas',385178.1917,2007,1
+'Rio Lago e Oceano',0,2007,1
+'Aquicultura',4972527.585,2007,1
+'Formação Florestal',444.6722015,2008,1
+'Formação Savânica',19339.42077,2008,1
+'Mangue',135889.8275,2008,1
+'Restinga Arbórea',155121.9349,2008,1
+'Campo Alagado e Área Pantanosa',35076.85548,2008,1
+'Formação Campestre',393.6857292,2008,1
+'Apicum',9358.251886,2008,1
+'Afloramento Rochoso',3707.390719,2008,1
+'Restinga Herbácea',3779992.28,2008,1
+'Pastagem',4162757.897,2008,1
+'Soja',452308.8386,2008,1
+'Cana',451.3733104,2008,1
+'Arroz',0,2008,1
+'Algodão (beta)',1738503.872,2008,1
+'Outras Lavouras Temporárias',49349.48894,2008,1
+'Café',4454.139308,2008,1
+'Outras Lavouras Perenes',728305.6186,2008,1
+'Silvicultura',3052323.733,2008,1
+'Mosaico de Usos',380.494697,2008,1
+'Praia  Duna e Areal',231900.4801,2008,1
+'Área Urbanizada',3094.608869,2008,1
+'Mineração',7434.097532,2008,1
+'Outras Áreas não Vegetadas',384762.7964,2008,1
+'Rio Lago e Oceano',0,2008,1
+'Aquicultura',4983452.079,2008,1
+'Formação Florestal',424.9208169,2009,1
+'Formação Savânica',19400.65194,2009,1
+'Mangue',135802.4525,2009,1
+'Restinga Arbórea',155472.1867,2009,1
+'Campo Alagado e Área Pantanosa',35866.14847,2009,1
+'Formação Campestre',373.8726218,2009,1
+'Apicum',9358.023005,2009,1
+'Afloramento Rochoso',3694.258853,2009,1
+'Restinga Herbácea',3659986.242,2009,1
+'Pastagem',4248518.038,2009,1
+'Soja',518693.6753,2009,1
+'Cana',444.072246,2009,1
+'Arroz',0,2009,1
+'Algodão (beta)',1671643.693,2009,1
+'Outras Lavouras Temporárias',45345.45719,2009,1
+'Café',3389.756884,2009,1
+'Outras Lavouras Perenes',778343.6892,2009,1
+'Silvicultura',3025985.288,2009,1
+'Mosaico de Usos',385.4294257,2009,1
+'Praia  Duna e Areal',235204.2469,2009,1
+'Área Urbanizada',3202.924987,2009,1
+'Mineração',7314.931082,2009,1
+'Outras Áreas não Vegetadas',385614.4856,2009,1
+'Rio Lago e Oceano',0,2009,1
+'Aquicultura',5000585.98,2009,1
+'Formação Florestal',477.0901822,2010,1
+'Formação Savânica',19608.6245,2010,1
+'Mangue',135474.6705,2010,1
+'Restinga Arbórea',155790.8355,2010,1
+'Campo Alagado e Área Pantanosa',36383.47321,2010,1
+'Formação Campestre',365.5380768,2010,1
+'Apicum',9348.233866,2010,1
+'Afloramento Rochoso',3710.537988,2010,1
+'Restinga Herbácea',3580204.313,2010,1
+'Pastagem',4459937.551,2010,1
+'Soja',527605.2641,2010,1
+'Cana',412.3201978,2010,1
+'Arroz',0,2010,1
+'Algodão (beta)',1479513.012,2010,1
+'Outras Lavouras Temporárias',42895.5346,2010,1
+'Café',2660.991903,2010,1
+'Outras Lavouras Perenes',825812.6494,2010,1
+'Silvicultura',3005895.848,2010,1
+'Mosaico de Usos',431.1191103,2010,1
+'Praia  Duna e Areal',240872.9204,2010,1
+'Área Urbanizada',3315.609451,2010,1
+'Mineração',7008.728707,2010,1
+'Outras Áreas não Vegetadas',389608.4653,2010,1
+'Rio Lago e Oceano',0,2010,1
+'Aquicultura',5003402.726,2010,1
+'Formação Florestal',602.6667015,2011,1
+'Formação Savânica',19529.20912,2011,1
+'Mangue',135977.5569,2011,1
+'Restinga Arbórea',155475.7205,2011,1
+'Campo Alagado e Área Pantanosa',36794.87191,2011,1
+'Formação Campestre',363.4378203,2011,1
+'Apicum',9347.363187,2011,1
+'Afloramento Rochoso',3766.625671,2011,1
+'Restinga Herbácea',3505580.895,2011,1
+'Pastagem',4423165.865,2011,1
+'Soja',539127.223,2011,1
+'Cana',402.0569361,2011,1
+'Arroz',0,2011,1
+'Algodão (beta)',1497107.4,2011,1
+'Outras Lavouras Temporárias',43946.56217,2011,1
+'Café',2455.979127,2011,1
+'Outras Lavouras Perenes',876637.8537,2011,1
+'Silvicultura',3028384.449,2011,1
+'Mosaico de Usos',470.5161452,2011,1
+'Praia  Duna e Areal',245878.6399,2011,1
+'Área Urbanizada',3415.96478,2011,1
+'Mineração',7305.601866,2011,1
+'Outras Áreas não Vegetadas',388763.3025,2011,1
+'Rio Lago e Oceano',0,2011,1
+'Aquicultura',5021767.577,2011,1
+'Formação Florestal',704.3771034,2012,1
+'Formação Savânica',19229.00908,2012,1
+'Mangue',136423.237,2012,1
+'Restinga Arbórea',155121.5679,2012,1
+'Campo Alagado e Área Pantanosa',37049.20772,2012,1
+'Formação Campestre',325.4214898,2012,1
+'Apicum',9341.480375,2012,1
+'Afloramento Rochoso',3834.037729,2012,1
+'Restinga Herbácea',3427523.955,2012,1
+'Pastagem',4650947.567,2012,1
+'Soja',559909.0376,2012,1
+'Cana',384.711194,2012,1
+'Arroz',0,2012,1
+'Algodão (beta)',1176849.917,2012,1
+'Outras Lavouras Temporárias',45191.30437,2012,1
+'Café',2538.37359,2012,1
+'Outras Lavouras Perenes',929998.7157,2012,1
+'Silvicultura',3099743.504,2012,1
+'Mosaico de Usos',486.6886371,2012,1
+'Praia  Duna e Areal',250711.7652,2012,1
+'Área Urbanizada',3522.186385,2012,1
+'Mineração',9187.328368,2012,1
+'Outras Áreas não Vegetadas',387147.3932,2012,1
+'Rio Lago e Oceano',0,2012,1
+'Aquicultura',5041542.014,2012,1
+'Formação Florestal',697.6636356,2013,1
+'Formação Savânica',19167.65354,2013,1
+'Mangue',137394.593,2013,1
+'Restinga Arbórea',153937.3826,2013,1
+'Campo Alagado e Área Pantanosa',36902.10589,2013,1
+'Formação Campestre',237.1920558,2013,1
+'Apicum',9344.196773,2013,1
+'Afloramento Rochoso',3906.337543,2013,1
+'Restinga Herbácea',3317591.566,2013,1
+'Pastagem',4636203.222,2013,1
+'Soja',558925.824,2013,1
+'Cana',347.1696453,2013,1
+'Arroz',0,2013,1
+'Algodão (beta)',1221683.497,2013,1
+'Outras Lavouras Temporárias',45305.78744,2013,1
+'Café',2811.592433,2013,1
+'Outras Lavouras Perenes',970238.6135,2013,1
+'Silvicultura',3110594.489,2013,1
+'Mosaico de Usos',504.5547135,2013,1
+'Praia  Duna e Areal',256702.4916,2013,1
+'Área Urbanizada',3663.625509,2013,1
+'Mineração',10468.36205,2013,1
+'Outras Áreas não Vegetadas',389774.59,2013,1
+'Rio Lago e Oceano',0,2013,1
+'Aquicultura',5060557,2013,1
+'Formação Florestal',609.4703869,2014,1
+'Formação Savânica',19730.62387,2014,1
+'Mangue',136852.8545,2014,1
+'Restinga Arbórea',153321.183,2014,1
+'Campo Alagado e Área Pantanosa',36689.84701,2014,1
+'Formação Campestre',158.928385,2014,1
+'Apicum',9348.732336,2014,1
+'Afloramento Rochoso',3928.641944,2014,1
+'Restinga Herbácea',3269622.632,2014,1
+'Pastagem',4491875.173,2014,1
+'Soja',596176.4241,2014,1
+'Cana',428.0377929,2014,1
+'Arroz',0,2014,1
+'Algodão (beta)',1380588.098,2014,1
+'Outras Lavouras Temporárias',43945.53477,2014,1
+'Café',2429.781333,2014,1
+'Outras Lavouras Perenes',1009595.597,2014,1
+'Silvicultura',3045801.671,2014,1
+'Mosaico de Usos',507.1340772,2014,1
+'Praia  Duna e Areal',261513.4985,2014,1
+'Área Urbanizada',3779.224169,2014,1
+'Mineração',12469.82656,2014,1
+'Outras Áreas não Vegetadas',388008.9593,2014,1
+'Rio Lago e Oceano',0,2014,1
+'Aquicultura',5079565.974,2014,1
+'Formação Florestal',534.2718892,2015,1
+'Formação Savânica',20040.61279,2015,1
+'Mangue',136513.8754,2015,1
+'Restinga Arbórea',152521.3498,2015,1
+'Campo Alagado e Área Pantanosa',35753.25907,2015,1
+'Formação Campestre',121.4492665,2015,1
+'Apicum',9337.714501,2015,1
+'Afloramento Rochoso',3911.553041,2015,1
+'Restinga Herbácea',3234225.379,2015,1
+'Pastagem',4674041.265,2015,1
+'Soja',599848.2402,2015,1
+'Cana',304.7659091,2015,1
+'Arroz',0,2015,1
+'Algodão (beta)',1216769.509,2015,1
+'Outras Lavouras Temporárias',39462.50786,2015,1
+'Café',2429.319301,2015,1
+'Outras Lavouras Perenes',1037149.939,2015,1
+'Silvicultura',3011390.953,2015,1
+'Mosaico de Usos',477.4788412,2015,1
+'Praia  Duna e Areal',266299.2946,2015,1
+'Área Urbanizada',3895.201964,2015,1
+'Mineração',14446.25243,2015,1
+'Outras Áreas não Vegetadas',388909.8984,2015,1
+'Rio Lago e Oceano',0,2015,1
+'Aquicultura',5096203.222,2015,1
+'Formação Florestal',676.6134186,2016,1
+'Formação Savânica',19881.13612,2016,1
+'Mangue',136695.6362,2016,1
+'Restinga Arbórea',151271.8736,2016,1
+'Campo Alagado e Área Pantanosa',35133.92427,2016,1
+'Formação Campestre',110.3597431,2016,1
+'Apicum',9324.476372,2016,1
+'Afloramento Rochoso',3861.400768,2016,1
+'Restinga Herbácea',3191263.201,2016,1
+'Pastagem',5052911.734,2016,1
+'Soja',585250.9227,2016,1
+'Cana',111.9214407,2016,1
+'Arroz',0,2016,1
+'Algodão (beta)',883787.005,2016,1
+'Outras Lavouras Temporárias',36968.26462,2016,1
+'Café',2424.799805,2016,1
+'Outras Lavouras Perenes',1054922.171,2016,1
+'Silvicultura',2983205.364,2016,1
+'Mosaico de Usos',456.0690589,2016,1
+'Praia  Duna e Areal',271488.7709,2016,1
+'Área Urbanizada',3976.02886,2016,1
+'Mineração',14872.76387,2016,1
+'Outras Áreas não Vegetadas',393164.2897,2016,1
+'Rio Lago e Oceano',0,2016,1
+'Aquicultura',5111669.465,2016,1
+'Formação Florestal',685.6721579,2017,1
+'Formação Savânica',19498.56039,2017,1
+'Mangue',136694.027,2017,1
+'Restinga Arbórea',150805.4406,2017,1
+'Campo Alagado e Área Pantanosa',34807.53939,2017,1
+'Formação Campestre',112.7864339,2017,1
+'Apicum',9324.367245,2017,1
+'Afloramento Rochoso',3853.86982,2017,1
+'Restinga Herbácea',3133013.112,2017,1
+'Pastagem',5252614.469,2017,1
+'Soja',564225.5573,2017,1
+'Cana',180.2495618,2017,1
+'Arroz',0,2017,1
+'Algodão (beta)',733670.7515,2017,1
+'Outras Lavouras Temporárias',34834.17263,2017,1
+'Café',2619.962668,2017,1
+'Outras Lavouras Perenes',1061802.675,2017,1
+'Silvicultura',2993203.455,2017,1
+'Mosaico de Usos',471.654873,2017,1
+'Praia  Duna e Areal',275891.2031,2017,1
+'Área Urbanizada',4050.212444,2017,1
+'Mineração',15021.46691,2017,1
+'Outras Áreas não Vegetadas',388902.0569,2017,1
+'Rio Lago e Oceano',0.891151318,2017,1
+'Aquicultura',5116416.35,2017,1
+'Formação Florestal',625.8179452,2018,1
+'Formação Savânica',19129.47918,2018,1
+'Mangue',136384.0156,2018,1
+'Restinga Arbórea',150564.0689,2018,1
+'Campo Alagado e Área Pantanosa',34304.51347,2018,1
+'Formação Campestre',120.0712412,2018,1
+'Apicum',9319.803509,2018,1
+'Afloramento Rochoso',3858.976398,2018,1
+'Restinga Herbácea',3077727.335,2018,1
+'Pastagem',5334040.569,2018,1
+'Soja',558212.2687,2018,1
+'Cana',414.5818056,2018,1
+'Arroz',0,2018,1
+'Algodão (beta)',610072.8888,2018,1
+'Outras Lavouras Temporárias',33774.91675,2018,1
+'Café',2753.743363,2018,1
+'Outras Lavouras Perenes',1072710.7,2018,1
+'Silvicultura',3079859.219,2018,1
+'Mosaico de Usos',471.5718704,2018,1
+'Praia  Duna e Areal',280457.3668,2018,1
+'Área Urbanizada',4134.883561,2018,1
+'Mineração',15102.92797,2018,1
+'Outras Áreas não Vegetadas',387485.8319,2018,1
+'Rio Lago e Oceano',2.187384503,2018,1
+'Aquicultura',5102685.123,2018,1
+'Formação Florestal',526.2214167,2019,1
+'Formação Savânica',19369.50633,2019,1
+'Mangue',136524.6189,2019,1
+'Restinga Arbórea',149263.3985,2019,1
+'Campo Alagado e Área Pantanosa',33594.64001,2019,1
+'Formação Campestre',125.2438236,2019,1
+'Apicum',9286.765322,2019,1
+'Afloramento Rochoso',3843.851462,2019,1
+'Restinga Herbácea',3014162.425,2019,1
+'Pastagem',5337704.537,2019,1
+'Soja',515190.6466,2019,1
+'Cana',609.0383936,2019,1
+'Arroz',0,2019,1
+'Algodão (beta)',656798.7346,2019,1
+'Outras Lavouras Temporárias',34440.96672,2019,1
+'Café',3174.363759,2019,1
+'Outras Lavouras Perenes',1099158.519,2019,1
+'Silvicultura',3122583.523,2019,1
+'Mosaico de Usos',455.9737549,2019,1
+'Praia  Duna e Areal',284505.3036,2019,1
+'Área Urbanizada',4253.497652,2019,1
+'Mineração',14729.92481,2019,1
+'Outras Áreas não Vegetadas',384941.7375,2019,1
+'Rio Lago e Oceano',19.90254583,2019,1
+'Aquicultura',5101660.58,2019,1
+'Formação Florestal',459.5138483,2020,1
+'Formação Savânica',20013.09459,2020,1
+'Mangue',135318.4163,2020,1
+'Restinga Arbórea',148575.6895,2020,1
+'Campo Alagado e Área Pantanosa',33235.54161,2020,1
+'Formação Campestre',141.0097619,2020,1
+'Apicum',9272.790126,2020,1
+'Afloramento Rochoso',3819.487262,2020,1
+'Restinga Herbácea',2938567.997,2020,1
+'Pastagem',5472593.261,2020,1
+'Soja',537733.2419,2020,1
+'Cana',669.0092717,2020,1
+'Arroz',0,2020,1
+'Algodão (beta)',527763.5514,2020,1
+'Outras Lavouras Temporárias',34614.62528,2020,1
+'Café',3716.450309,2020,1
+'Outras Lavouras Perenes',1110833.502,2020,1
+'Silvicultura',3159396.888,2020,1
+'Mosaico de Usos',452.9826842,2020,1
+'Praia  Duna e Areal',287377.2417,2020,1
+'Área Urbanizada',4323.688629,2020,1
+'Mineração',15097.35633,2020,1
+'Outras Áreas não Vegetadas',382298.1694,2020,1
+'Rio Lago e Oceano',33.01248167,2020,1
+'Aquicultura',5101847.341,2020,1
+'Formação Florestal',382.6141924,2021,1
+'Formação Savânica',20096.09448,2021,1
+'Mangue',135290.502,2021,1
+'Restinga Arbórea',147494.2967,2021,1
+'Campo Alagado e Área Pantanosa',33216.81332,2021,1
+'Formação Campestre',145.2969256,2021,1
+'Apicum',9271.342214,2021,1
+'Afloramento Rochoso',3822.880818,2021,1
+'Restinga Herbácea',2898059.597,2021,1
+'Pastagem',5517645.124,2021,1
+'Soja',534310.2703,2021,1
+'Cana',401.0471853,2021,1
+'Arroz',0,2021,1
+'Algodão (beta)',496131.8219,2021,1
+'Outras Lavouras Temporárias',34679.71147,2021,1
+'Café',3704.36835,2021,1
+'Outras Lavouras Perenes',1116316.593,2021,1
+'Silvicultura',3181595.771,2021,1
+'Mosaico de Usos',451.932012,2021,1
+'Praia  Duna e Areal',290134.0664,2021,1
+'Área Urbanizada',4415.95468,2021,1
+'Mineração',15757.97095,2021,1
+'Outras Áreas não Vegetadas',382705.1009,2021,1
+'Rio Lago e Oceano',67.46095341,2021,1
+'Aquicultura',5120839.41,2021,1
+'Formação Florestal',336.1474998,2022,1
+'Formação Savânica',19920.74905,2022,1
+'Mangue',134335.1919,2022,1
+'Restinga Arbórea',146021.7518,2022,1
+'Campo Alagado e Área Pantanosa',33094.46898,2022,1
+'Formação Campestre',147.8909662,2022,1
+'Apicum',9264.332798,2022,1
+'Afloramento Rochoso',3843.285624,2022,1
+'Restinga Herbácea',2848407.897,2022,1
+'Pastagem',5582139.012,2022,1
+'Soja',556275.9714,2022,1
+'Cana',367.0159089,2022,1
+'Arroz',1.805184137,2022,1
+'Algodão (beta)',433852.4447,2022,1
+'Outras Lavouras Temporárias',34735.03431,2022,1
+'Café',3533.960117,2022,1
+'Outras Lavouras Perenes',1125019.491,2022,1
+'Silvicultura',3170825.587,2022,1
+'Mosaico de Usos',453.2250974,2022,1
+'Praia  Duna e Areal',290494.0518,2022,1
+'Área Urbanizada',4449.758274,2022,1
+'Mineração',17696.79738,2022,1
+'Outras Áreas não Vegetadas',391837.7916,2022,1
+'Rio Lago e Oceano',74.34632539,2022,1
+'Aquicultura',5125659.33,2022,1
+'Formação Florestal',345.3150184,2023,1
+'Formação Savânica',19931.79714,2023,1
+'Mangue',134134.1875,2023,1
+'Restinga Arbórea',145932.328,2023,1
+'Campo Alagado e Área Pantanosa',33222.94222,2023,1
+'Formação Campestre',148.1341406,2023,1
+'Apicum',9247.334485,2023,1
+'Afloramento Rochoso',3863.420298,2023,1
+'Restinga Herbácea',2818727.73,2023,1
+'Pastagem',5669466.499,2023,1
+'Soja',563034.3117,2023,1
+'Cana',410.9217731,2023,1
+'Arroz',1.805184137,2023,1
+'Algodão (beta)',355149.0121,2023,1
+'Outras Lavouras Temporárias',34676.02886,2023,1
+'Café',3454.737973,2023,1
+'Outras Lavouras Perenes',1125119.511,2023,1
+'Silvicultura',3166574.776,2023,1
+'Mosaico de Usos',438.0662466,2023,1
+'Praia  Duna e Areal',296626.0554,2023,1
+'Área Urbanizada',4461.970815,2023,1
+'Mineração',23989.11676,2023,1
+'Outras Áreas não Vegetadas',393266.791,2023,1
+'Rio Lago e Oceano',74.18373231,2023,1
