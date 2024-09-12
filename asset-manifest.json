@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/paineldaterra/static/css/main.84bc727a.css",
-    "main.js": "/paineldaterra/static/js/main.96600caa.js",
+    "main.css": "/paineldaterra/static/css/main.ba995135.css",
+    "main.js": "/paineldaterra/static/js/main.b588315f.js",
     "index.html": "/paineldaterra/index.html",
-    "main.84bc727a.css.map": "/paineldaterra/static/css/main.84bc727a.css.map",
-    "main.96600caa.js.map": "/paineldaterra/static/js/main.96600caa.js.map"
+    "main.ba995135.css.map": "/paineldaterra/static/css/main.ba995135.css.map",
+    "main.b588315f.js.map": "/paineldaterra/static/js/main.b588315f.js.map"
   },
   "entrypoints": [
-    "static/css/main.84bc727a.css",
-    "static/js/main.96600caa.js"
+    "static/css/main.ba995135.css",
+    "static/js/main.b588315f.js"
   ]
 }
